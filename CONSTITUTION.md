@@ -12,7 +12,7 @@ The name of this organization shall be the Federation of World Democrats (hencef
 
 **Section 2. Purpose**
 
-The purpose of this Global Federation is to:
+The purpose of this organization is to:
 
 - Foster international cooperation, understanding, and goodwill among nations and peoples.
 - Preserve and protect our planet, its resources, and its diverse ecosystems for present and future generations.
@@ -23,15 +23,15 @@ The purpose of this Global Federation is to:
 
 ## Article II – Guiding Principles
 
-In pursuit of these goals, the Global Federation shall adhere to the following principles:
+In pursuit of these goals, the World Democrats shall adhere to the following principles:
 
-- Inclusivity and Representation: The Federation shall strive to involve and represent all nations, peoples, and perspectives in its decision-making processes, ensuring that every voice is heard and respected.
-- Democratic Governance: The Federation shall be governed by the principles of democracy, with power vested in the people and decisions made through fair, transparent, and participatory processes.
-- Sustainability and Intergenerational Equity: The Federation shall prioritize the long-term well-being of the planet and its inhabitants, balancing the needs of present generations with the rights of future ones.
-- Human Rights and Social Justice: The Federation shall uphold and promote the principles of human dignity, equality, and social justice, working to eradicate poverty, injustice, and discrimination in all their forms.
-- Peace and Security: The Federation shall endeavor to prevent conflict, promote disarmament, and foster a global culture of peace and nonviolence.
-- Knowledge and Innovation: The Federation shall champion the pursuit of knowledge, scientific discovery, and technological innovation, recognizing their potential to transform our world for the better.
-- Adaptability and Resilience: The Federation shall be responsive to new challenges and evolving circumstances, committed to learning from experience and adapting its institutions and policies accordingly.
+- Inclusivity and Representation: The World Democrats shall strive to involve and represent all nations, peoples, and perspectives in its decision-making processes, ensuring that every voice is heard and respected.
+- Democratic Governance: The World Democrats shall be governed by the principles of democracy, with power vested in the people and decisions made through fair, transparent, and participatory processes.
+- Sustainability and Intergenerational Equity: The World Democrats shall prioritize the long-term well-being of the planet and its inhabitants, balancing the needs of present generations with the rights of future ones.
+- Human Rights and Social Justice: The World Democrats shall uphold and promote the principles of human dignity, equality, and social justice, working to eradicate poverty, injustice, and discrimination in all their forms.
+- Peace and Security: The World Democrats shall endeavor to prevent conflict, promote disarmament, and foster a global culture of peace and nonviolence.
+- Knowledge and Innovation: The World Democrats shall champion the pursuit of knowledge, scientific discovery, and technological innovation, recognizing their potential to transform our world for the better.
+- Adaptability and Resilience: The World Democrats shall be responsive to new challenges and evolving circumstances, committed to learning from experience and adapting its institutions and policies accordingly.
 
 ## Article III – Membership
 
