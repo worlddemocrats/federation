@@ -25,10 +25,10 @@ We welcome and encourage contributions from individuals and organizations who sh
 5. **Stay informed**: Keep up-to-date with the latest developments and announcements by following our social media channels on [Facebook](https://facebook.com/worlddemocratsorg) and [Twitter](https://twitter.com/world_democrats).
 
 ## Code of Conduct
-We are committed to fostering an inclusive, respectful, and supportive environment for all contributors. Please refer to our [Code of Conduct](https://github.com/worlddemocrats/federation/main/CODE_OF_CONDUCT.md) for detailed information on our community guidelines and expectations.
+We are committed to fostering an inclusive, respectful, and supportive environment for all contributors. Please refer to our [Code of Conduct](https://github.com/worlddemocrats/federation/blob/main/CODE_OF_CONDUCT.md) for detailed information on our community guidelines and expectations.
 
 ## License
-This project is licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/federation/main/LICENCE). By contributing to this project, you agree to abide by its terms.
+This project is licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/federation/blob/main/LICENSE). By contributing to this project, you agree to abide by its terms.
 
 ## Contact
 If you have any questions, concerns, or suggestions, please feel free to reach out to us via email at info@worlddemocrats.org.
