@@ -2,7 +2,7 @@
 
 ## Preamble
 
-We, the people of Earth, united in our diversity, recognizing the unprecedented pace of change and the imperative need to safeguard our collective future, hereby establish the Federation of World Democrats. In the spirit of unity, cooperation, and shared responsibility, we dedicate ourselves to the creation of a democratic world government that addresses the pressing global challenges of our time.
+We, recognizing the unprecedented pace of change and the imperative need to safeguard our collective future, hereby establish the Federation of World Democrats. In the spirit of unity, cooperation, and shared responsibility, we dedicate ourselves to the creation of a democratic world government that addresses the pressing global challenges of our time.
 
 ## Article I – Name and Purpose
 
@@ -23,11 +23,11 @@ The purpose of this organization is to:
 
 In pursuit of these goals, the World Democrats shall adhere to the following principles:
 
-- Unity and Cooperation: The Federation champions a culture of collaboration, fostering a strong sense of community and shared purpose among its members and supporters. We believe that unity and teamwork form the bedrock of our organization.
-- Impact-Driven Action: The Federation is committed to addressing the world's most urgent challenges and prioritizing initiatives with significant societal impact. Our actions are guided by their potential to effect meaningful change.
-- Diversity and Inclusivity: The Federation is dedicated to promoting diversity and inclusivity. We strive for equitable representation of various social groups in our organizational structure and decision-making processes, ensuring that every voice is heard and respected.
-- Agility and Innovation: The Federation remains responsive and adaptable in the face of evolving political landscapes, societal needs, and emerging challenges. We embrace innovative technologies, methods, and ideas to enhance our organization's impact and resilience.
-- Transparency and Accountability: The Federation upholds the principles of honesty, transparency, and accountability in all its operations. We foster open communication with our supporters, facilitating the exchange of ideas, feedback, and the development of new strategic directions.
+- **Unity and Cooperation**: The Federation champions a culture of collaboration, fostering a strong sense of community and shared purpose among its members and supporters. We believe that unity and teamwork form the bedrock of our organization.
+- **Impact-Driven Action**: The Federation is committed to addressing the world's most urgent challenges and prioritizing initiatives with significant societal impact. Our actions are guided by their potential to effect meaningful change.
+- **Diversity and Inclusivity**: The Federation is dedicated to promoting diversity and inclusivity. We strive for equitable representation of various social groups in our organizational structure and decision-making processes, ensuring that every voice is heard and respected.
+- **Agility and Innovation**: The Federation remains responsive and adaptable in the face of evolving political landscapes, societal needs, and emerging challenges. We embrace innovative technologies, methods, and ideas to enhance our organization's impact and resilience.
+- **Transparency and Accountability**: The Federation upholds the principles of honesty, transparency, and accountability in all its operations. We foster open communication with our supporters, facilitating the exchange of ideas, feedback, and the development of new strategic directions.
 
 ## Article III – Membership
 
