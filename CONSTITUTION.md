@@ -15,9 +15,7 @@ The name of this organization shall be the Federation of World Democrats (hencef
 The purpose of this organization is to:
 
 - Unite individuals and communities worldwide to shape the future of governance.
-- Address critical global challenges such as the ethical development and deployment of artificial intelligence, pandemics, climate change, and nuclear disarmament.
 - Foster a sense of shared responsibility and global citizenship.
-- Promote social, economic, and political justice, ensuring the fulfillment of basic human rights for all.
 - Establish effective institutions to uphold the rule of law, safeguard democracy, and govern global affairs transparently and efficiently.
 - Harness the power of collective action to build a brighter future for generations to come, safeguard our planet, and uphold democratic values on a global scale.
 
