@@ -1,33 +1,36 @@
 # World Democrats
-Welcome to the World Democrats' main repository! We are building a global organization dedicated to laying the groundwork for a democratic world government that effectively addresses critical challenges such as the safe and ethical development and deployment of artificial intelligence, pandemics, climate change, and the prevention of nuclear war. We recognize the extraordinary impact of accelerating progress and are devoted to managing its risks and harnessing its potential for the greater good of humanity.
 
-Our mission is to unite individuals and communities from across the globe to shape the future of governance. We seek to cultivate a sense of shared responsibility and global citizenship in the pursuit of a just, equitable, and sustainable world where a world government effectively addresses pressing issues and ensures lasting peace, security, and stability. By harnessing the power of collective action, we can build a brighter future for generations to come, safeguard our planet, and uphold democratic values on a global scale.
+Founded in 2023, the World Democrats emerged in response to the urgent global need for a fresh approach to governance, one capable of addressing the multifaceted and interconnected challenges of the 21st century. Recognizing the extraordinary implications of accelerating change, we are dedicated to laying the groundwork for a democratic world government to manage its risks and harness its potential for the greater good of humanity. Together, we can build a brighter tomorrow, protect our planet, and promote democratic values on a global scale.
 
-### Disclaimer
-As an ambitious initiative, we recognize the need for constant refinement and adaptation. All content in this repository is considered a draft, open to revisions and enhancements.
+## Our Main Activities
+
+We're actively engaged in a range of activities to further our mission:
+- **Community Building:** We foster an inclusive community where everyone can participate in discussion and collaboration.
+- **Education:** We're building a [political academy](https://github.com/worlddemocrats/academy) to provide comprehensive education on topics related to our mission.
+- **Partnerships and Collaboration:** We actively partner with organizations and networks that share our vision.
 
 ## Repository Content
-This main repository serves as the central hub for all key documents and information related to our organization. By fostering open collaboration and the exchange of ideas, we aim to create a living body of knowledge that evolves with the needs of our movement. Currently, the repository contains the following documents:
+This main repository serves as the central hub for all important documents and information related to our organization. It currently contains the following documents:
 
-- [Vision and Mission](https://github.com/worlddemocrats/federation/blob/main/VISION_AND_MISSION.md): Contains the main principles and objectives of our initiative
-- [Organizational Culture](https://github.com/worlddemocrats/federation/blob/main/ORGANIZATIONAL_CULTURE.md): Details our organization's values, principles, and culture, which serve as a foundation for collaboration and decision-making
-- [Constitution](https://github.com/worlddemocrats/federation/blob/main/CONSTITUTION.md): Presents our draft constitution, inviting input from contributors worldwide
-- [Strategic Plan](https://github.com/worlddemocrats/federation/blob/main/STRATEGIC_PLAN.md): Contains our evolving strategic plan, designed to guide our progress and adapt to new insights
+- [Vision and Mission Statement](https://github.com/worlddemocrats/federation/blob/main/VISION_AND_MISSION.md)
+- [Organizational Culture](https://github.com/worlddemocrats/federation/blob/main/ORGANIZATIONAL_CULTURE.md)
+- [Constitution](https://github.com/worlddemocrats/federation/blob/main/CONSTITUTION.md)
+- [Strategic Plan](https://github.com/worlddemocrats/federation/blob/main/STRATEGIC_PLAN.md)
 
-## How to Contribute
-We welcome and value the diverse perspectives, skills, and experiences that individuals and organizations can bring to our movement. To join our global community of contributors, please follow these steps:
+## Engage With Us
+We welcome and value the diverse perspectives, skills, and experiences that individuals and organizations can bring to our movement. To join us in our mission:
 
-1. **Familiarize yourself with the documents**: Gain a deeper understanding of our organization by reviewing our vision, mission, organizational culture, constitution, and strategic plan.
-2. **Engage in the conversation**: Share your ideas, suggestions, and feedback in ongoing discussions on the various documents here, on our [Discord server](https://discord.gg/KhuwtTPnXa), or in our [Facebook group](https://www.facebook.com/groups/worlddemocrats).
-3. **Create or contribute to issues**: Use the GitHub Issues feature to report problems, propose improvements, or discuss new ideas related to the organization.
-4. **Collaborate through pull requests**: Propose specific changes by creating a fork of the repository, making your revisions, and submitting a pull request for review.
-5. **Stay informed and connected**: Keep up-to-date with the latest developments and announcements by following our social media channels on [Facebook](https://facebook.com/worlddemocratsorg) and [Twitter](https://twitter.com/world_democrats).
+- **Improve Our Documents:** Our [Contribution Guide](CONTRIBUTING.md) provides more information.
+- **Join Discussions:** Engage with our community on our [Discord server](https://discord.gg/KhuwtTPnXa), or in our [Facebook group](https://www.facebook.com/groups/worlddemocrats).
+- **Spread the Word:** Follow us on [Facebook](https://facebook.com/worlddemocratsorg) and [Twitter](https://twitter.com/world_democrats) and share our mission with your network.
+- **Support Our Cause:** Your financial support is crucial to our work. You can [donate here](link-to-your-donation-page).
 
 ## Code of Conduct
-We are committed to fostering an inclusive, respectful, and supportive environment for all contributors. Our [Code of Conduct](https://github.com/worlddemocrats/federation/blob/main/CODE_OF_CONDUCT.md) outlines the community guidelines and expectations that enable us to work together effectively and harmoniously.
+
+We are committed to fostering an inclusive, respectful, and supportive environment for all contributors. All participants in our project are expected to uphold our [Code of Conduct](https://github.com/worlddemocrats/federation/blob/main/CODE_OF_CONDUCT.md), which outlines the community guidelines and expectations.
 
 ## License
-This project is licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/federation/blob/main/LICENSE). By contributing to this project, you agree to abide by its terms.
+This project is licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/federation/blob/main/LICENSE). This license provides you with the freedom to use, adapt, and share our resources without restrictions.
 
 ## Contact
-If you have any questions, concerns, or suggestions, we welcome you to reach out to us via email at info@worlddemocrats.org. Together, we can create a brighter future for our world.
+If you have any questions, concerns, or suggestions, we welcome you to reach out to us via email at info@worlddemocrats.org.
