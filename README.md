@@ -31,10 +31,10 @@ We welcome and value the diverse perspectives, skills, and experiences that indi
 
 We are committed to fostering an inclusive, respectful, and supportive environment for all contributors. All participants in our project are expected to uphold our [Code of Conduct](https://github.com/worlddemocrats/federation/blob/main/CODE_OF_CONDUCT.md), which outlines the community guidelines and expectations.
 
-## License
-
-This project is licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/federation/blob/main/LICENSE). This license provides you with the freedom to use, adapt, and share our resources without restrictions.
-
 ## Contact
 
 If you have any questions, concerns, or suggestions, we welcome you to reach out to us via email at info@worlddemocrats.org.
+
+## License
+
+This project is licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/federation/blob/main/LICENSE). This license provides you with the freedom to use, adapt, and share our resources without restrictions.
