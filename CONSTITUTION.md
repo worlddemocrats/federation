@@ -75,7 +75,7 @@ An Extraordinary General Assembly may be convened by the Executive Committee or 
 
 ### Section 3. Representative Assembly
 
-The Representative Assembly, comprised of representatives elected by the membership, will utilize a mixed electoral system that combines proportional representation based on faction lists and first-past-the-post methods. This system aims to ensure fair representation for different factions while also allowing for direct election of individual representatives. The size, composition, and election process for the Representative Assembly shall be determined by the General Assembly.
+The Representative Assembly, comprised of representatives elected by the membership, will utilize a mixed electoral system that combines proportional representation based on faction lists and first-past-the-post methods. This system aims to ensure fair representation for different factions while also allowing for direct election of individual representatives. The size, composition, and election process for the Representative Assembly shall be determined by the General Assembly. The Representative Assembly has the power to approve the appointment of the Chairperson of the Executive Committee, and can withdraw its confidence from the Chairperson and other members of the Executive Committee.
 
 ### Section 4. Factions
 
@@ -83,11 +83,11 @@ Factions may be formed within the World Democrats by members who share a common 
 
 ### Section 5. Executive Committee
 
-The Executive Committee shall be responsible for the overall management and coordination of the World Democrats' activities, in accordance with the policies and strategies set by the General Assembly and the Representative Assembly. It shall consist of a Chairperson, Vice-Chairperson, Secretary, Treasurer, and other officers as determined by the President. The President shall appoint the members of the Executive Committee, subject to the approval of the Representative Assembly. The Executive Committee shall meet at least quarterly and report to the Representative Assembly and the General Assembly.
+The Executive Committee shall be responsible for the execution of the World Democrats' activities, in accordance with the policies and strategies set by the General Assembly and the Representative Assembly. The Chairperson of the Executive Committee should be appointed by the President, subject to the approval of the Representative Assembly. The Chairperson shall lead the Executive Committee, which will consist of other officers as determined by the Chairperson, subject to the approval of the Representative Assembly. The Executive Committee shall meet at least quarterly and report to the Representative Assembly and the General Assembly.
 
 ### Section 6. President and Vice President
 
-The World Democrats shall have a President and Vice President, elected by the General Assembly for a term of one year. The terms of the President and Vice President are limited to two consecutive terms. The President shall represent the organization, oversee the implementation of its policies and strategies, and ensure the cohesion of the World Democrats' activities. The Vice President shall assist the President in their duties and assume the responsibilities of the President in their absence or incapacity.
+The World Democrats shall have a President and Vice President, elected by the General Assembly for a term of one year. The terms of the President and Vice President are limited to two consecutive terms. The President shall represent the organization at a high level, oversee inter-organizational relations, maintain integrity and ethical standards, and ensure the unity and cohesion of the World Democrats' activities. The President appoints the Chairperson of the Executive Committee, subject to approval by the Representative Assembly. The Vice President shall assist the President in their duties and assume the responsibilities of the President in their absence or incapacity.
 
 ### Section 7. Regional and National Chapters
 
