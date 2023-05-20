@@ -10,7 +10,7 @@ Founded in 2023, the World Democrats was born out of the recognition that a new 
 
 ## Repository Content
 
-This main repository serves as the central hub for all important documents and information related to our organization. It currently contains the following documents:
+This main repository serves as the central hub for all important information related to our organization. It currently contains the following documents:
 
 - [Vision and Mission Statement](https://github.com/worlddemocrats/federation/blob/main/VISION_AND_MISSION.md)
 - [Organizational Culture](https://github.com/worlddemocrats/federation/blob/main/ORGANIZATIONAL_CULTURE.md)
