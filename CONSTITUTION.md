@@ -151,15 +151,15 @@ This Statute enters into force upon adoption by a two-thirds majority vote of th
 
 ### Section 1. Interpretation
 
-Any question or dispute concerning the interpretation of this Statute shall be referred to the Executive Committee, whose decision shall be considered final, unless challenged by a member and referred to the General Assembly. In such cases, a majority vote of the General Assembly shall be required to overturn the decision.
+Any question or dispute concerning the interpretation of this Constitution shall be referred to the Interpretation Committee, a subset of the Representative Assembly, whose decision shall be considered final, unless challenged by a member and referred to the General Assembly. In such cases, a majority vote of the General Assembly shall be required to overturn the decision.
 
 ### Section 2. Dispute Resolution
 
-Any dispute arising between members or between members and the World Democrats, in connection with the objectives, principles, or activities of the organization, shall be resolved through negotiation, mediation, or any other peaceful means agreed upon by the parties involved. The General Assembly shall establish procedures and mechanisms for the resolution of disputes, such as the formation of a Conflict Resolution Committee or engagement of a neutral third-party mediator, as necessary.
+Any dispute arising between members or between members and the World Democrats, in connection with the objectives, principles, or activities of the organization, shall be resolved through negotiation, mediation, or any other peaceful means agreed upon by the parties involved. The General Assembly shall establish procedures and mechanisms for the resolution of disputes. This can involve the formation of a Conflict Resolution Committee, elected by and reporting to the Representative Assembly, or engagement of a neutral third-party mediator, as necessary.
 
 ### Section 3. Evaluation and Monitoring
 
-The World Democrats shall establish regular evaluation and monitoring processes to assess the progress and effectiveness of its activities, strategies, and objectives. The Executive Committee shall be responsible for overseeing these processes and reporting the findings to the General Assembly.
+The World Democrats shall establish regular evaluation and monitoring processes to assess the progress and effectiveness of its activities, strategies, and objectives. The Evaluation and Monitoring Committee, elected by and reporting to the Representative Assembly, shall be responsible for overseeing these processes and reporting the findings to the General Assembly.
 
 ## Article XI – Official Languages
 
@@ -185,20 +185,8 @@ The World Democrats shall promote linguistic diversity and the use of minority a
 
 The World Democrats shall operate in compliance with all applicable laws and regulations of the jurisdiction(s) in which it is registered and carries out its activities.
 
-### Section 2. Non-Discrimination and Inclusivity
-
-The World Democrats shall not discriminate on the basis of race, color, religion, gender, age, national origin, disability, sexual orientation, or any other characteristic protected by law, in any of its activities or operations. The World Democrats is committed to fostering an inclusive environment where diversity is celebrated and all members feel valued and empowered.
-
-### Section 3. Transparency and Accountability
-
-The World Democrats shall maintain high standards of transparency and accountability in all aspects of its work, and shall regularly report on its activities, finances, and progress to its members and the wider public.
-
-### Section 4. Technology Use
+### Section 2. Technology Use
 
 The World Democrats shall leverage digital technology for efficient operation and communication. Virtual meetings and online voting procedures shall be implemented as needed. All activities that involve the use of technology shall be governed by a comprehensive data protection, privacy, and digital security policy approved by the General Assembly. The organization shall commit to ensuring the digital safety of its members and the integrity of its online platforms.
-
-### Section 5. Open Dialogue 
-
-The World Democrats shall encourage open and constructive dialogue among members, affiliated organizations, and external parties. All members shall have the right to express their views and ideas, provided they are consistent with the organization's code of conduct and principles.
 
 Adopted by the founding members of the World Democrats on [Date].
