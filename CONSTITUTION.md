@@ -12,7 +12,7 @@ The name of this organization shall be the Federation of World Democrats (hencef
 
 ### Section 2. Purpose
 
-The purpose of this organization is to establish a democratic world government.
+The purpose of this organization is to establish a democratic world government. This entails promoting global democratic values, advocating for equitable representation at all levels of global governance, mitigating existential risks, and harnessing technological advancements for the betterment of all.
 
 ## Article II – Guiding Principles
 
@@ -39,8 +39,8 @@ Membership in the World Democrats is open to all individuals and organizations t
 The World Democrats shall have the following categories of membership:
 - Individual members: persons who support the objectives and principles of the World Democrats after being registered supporters for a minimum period of three months.
 - Organizational members: legally established organizations, associations, or institutions that support the objectives and principles of the World Democrats after being affiliated organizations for a minimum period of three months. 
-- Registered supporters: individuals who express interest in the World Democrats' objectives and principles and wish to be involved in its activities. Registered supporter status is only available for individuals and is mandatory for a minimum period of three months before becoming an individual member.
-- Affiliated organizations: organizations that share common goals and values with the World Democrats and wish to establish a cooperative relationship. Affiliated organization status is mandatory for a minimum period of three months before becoming an organizational member.
+- Registered supporters: individuals who express interest in the World Democrats' objectives and principles, and wish to be involved in its activities.
+- Affiliated organizations: organizations that share common goals and values with the World Democrats and wish to establish a cooperative relationship.
 - Honorary members: distinguished individuals who have made significant contributions to the cause of democracy, human rights, or global governance, and have been invited by the World Democrats to accept honorary membership.
 
 ### Section 3. Application for Membership
@@ -87,7 +87,7 @@ The Executive Committee shall be responsible for the overall management and coor
 
 ### Section 6. President and Vice President
 
-In line with the semi-presidential structure, the World Democrats shall have a President and Vice President, elected by the General Assembly for a specified term. The President shall represent the organization, oversee the implementation of its policies and strategies, and ensure the cohesion of the World Democrats' activities. The Vice President shall assist the President in their duties and assume the responsibilities of the President in their absence or incapacity.
+The World Democrats shall have a President and Vice President, elected by the General Assembly for a term of one year. The terms of the President and Vice President are limited to two consecutive terms. The President shall represent the organization, oversee the implementation of its policies and strategies, and ensure the cohesion of the World Democrats' activities. The Vice President shall assist the President in their duties and assume the responsibilities of the President in their absence or incapacity.
 
 ### Section 7. Regional and National Chapters
 
@@ -101,7 +101,11 @@ The World Democrats may establish working groups and committees to focus on spec
 
 The Secretariat shall be responsible for the day-to-day administration and operations of the World Democrats, under the direction of the Executive Committee. The Secretariat shall comprise staff members who support the work of the Executive Committee and the General Assembly and assist with the coordination of the organization's activities.
 
-## Article V – Finances
+## Article V – Provisions for Constitutional Review
+
+At least once every 2 years, the constitution of the World Democrats shall undergo a comprehensive review to ensure it continues to reflect the needs and realities of the organization and the broader global context. This review shall be conducted by a special committee elected by the General Assembly and any amendments proposed by this review shall be subject to the approval of the General Assembly.
+
+## Article VI – Finances
 
 ### Section 1. Funding
 
@@ -115,7 +119,7 @@ The Treasurer shall oversee the management of the World Democrats' financial res
 
 The financial accounts and records of the World Democrats shall be subject to an annual independent audit, as appointed by the General Assembly. The audit report shall be presented to the General Assembly for review and approval.
 
-## Article VI – Amendments
+## Article VII – Amendments
 
 ### Section 1. Proposal
 
@@ -125,7 +129,7 @@ Amendments to this Statute may be proposed in writing by a minimum of one percen
 
 Amendments to this Statute shall be considered and voted upon at the General Assembly. A three-fourths majority vote of the members present and voting shall be required for the adoption of any amendment.
 
-## Article VII – Dissolution
+## Article VIII – Dissolution
 
 ### Section 1. Proposal
 
@@ -135,11 +139,11 @@ A proposal to dissolve the World Democrats may be submitted in writing by at lea
 
 The dissolution of the World Democrats shall require a three-fourths majority vote of the members present and voting at the General Assembly. In the event of dissolution, the General Assembly shall determine the appropriate distribution of the World Democrats' assets, with due consideration given to the organization's objectives and principles.
 
-## Article VIII – Entry into Force
+## Article IX – Entry into Force
 
 This Statute enters into force upon adoption by a two-thirds majority vote of the founding members present and voting during the World Democrats' inaugural meeting.
 
-## Article IX – Interpretation and Dispute Resolution
+## Article X – Interpretation and Dispute Resolution
 
 ### Section 1. Interpretation
 
@@ -153,7 +157,7 @@ Any dispute arising between members or between members and the World Democrats, 
 
 The World Democrats shall establish regular evaluation and monitoring processes to assess the progress and effectiveness of its activities, strategies, and objectives. The Executive Committee shall be responsible for overseeing these processes and reporting the findings to the General Assembly.
 
-## Article X – Official Languages
+## Article XI – Official Languages
 
 ### Section 1. Official Languages
 
@@ -171,7 +175,7 @@ The World Democrats shall endeavor to provide interpretation and translation ser
 
 The World Democrats shall promote linguistic diversity and the use of minority and endangered languages within its activities and communications, in accordance with its principles and objectives.
 
-## Article XI – Operational Principles
+## Article XII – Operational Principles
 
 ### Section 1. Legal Compliance
 
