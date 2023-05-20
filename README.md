@@ -1,32 +1,31 @@
 # World Democrats
 
-Welcome to the World Democrats' main repository. Our community was born out of the recognition that a new model of governance is urgently needed to address the complex challenges of the 21st century. Since then, we have been laying the groundwork for a democratic world government that can effectively manage existential risks and harness the potential of accelerating change for the benefit of all humanity.
+Welcome to the World Democrats' main repository. Our community was born out of the recognition that a new model of governance is urgently needed to address the biggest challenges of the 21st century. Since then, we have been laying the groundwork for a democratic world government that can effectively manage existential risks and harness the potential of accelerating change for the benefit of all humanity.
 
 ## Our Current Focus
 
-Currently, we're channeling our efforts into three primary activities:
+Currently, we're channeling our efforts into two primary activities:
 
-- **Community Building:** We foster a diverse, global community through our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
-- **Education:** We are running a [Political Academy](https://github.com/worlddemocrats/academy) to provide comprehensive education on topics related to our mission.
-- **Partnerships and Collaboration:** We actively partner with organizations and networks that share our vision.
+- **Community building:** We actively partner with organizations and networks that share our vision, and foster a diverse, global community through our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
+- **Education:** We are running an [academy](https://github.com/worlddemocrats/academy) to provide comprehensive education on topics related to our mission.
 
 ## Repository Content
 
 This main repository serves as the central hub for all important information related to our organization. It currently contains the following documents:
 
-- [Vision and Mission Statement](https://github.com/worlddemocrats/federation/blob/main/VISION_AND_MISSION.md)
-- [Organizational Culture](https://github.com/worlddemocrats/federation/blob/main/ORGANIZATIONAL_CULTURE.md)
+- [Vision and mission statement](https://github.com/worlddemocrats/federation/blob/main/VISION_AND_MISSION.md)
+- [Organizational culture](https://github.com/worlddemocrats/federation/blob/main/ORGANIZATIONAL_CULTURE.md)
 - [Constitution](https://github.com/worlddemocrats/federation/blob/main/CONSTITUTION.md)
-- [Strategic Plan](https://github.com/worlddemocrats/federation/blob/main/STRATEGIC_PLAN.md)
+- [Strategic plan](https://github.com/worlddemocrats/federation/blob/main/STRATEGIC_PLAN.md)
 
 ## Engage With Us
 
 We welcome and value the diverse perspectives, skills, and experiences that individuals and organizations can bring to our movement. To join us in our mission:
 
-- **Join Discussions:** Engage with our community on our [Discord server](https://discord.gg/KhuwtTPnXa), or in our [Facebook group](https://www.facebook.com/groups/worlddemocrats).
-- **Spread the Word:** Follow us on [Facebook](https://facebook.com/worlddemocratsorg) and [Twitter](https://twitter.com/world_democrats) and share our mission with your network.
-- **Improve Our Documents:** Our [Contribution Guide](CONTRIBUTING.md) provides more information.
-- **Support Our Cause:** Your financial support is crucial to our work. You can [donate here](link-to-your-donation-page).
+- **Join discussions:** Engage with our community on our [Discord server](https://discord.gg/KhuwtTPnXa), or in our [Facebook group](https://www.facebook.com/groups/worlddemocrats).
+- **Spread the word:** Follow us on [Facebook](https://facebook.com/worlddemocratsorg) and [Twitter](https://twitter.com/world_democrats) and share our mission with your network.
+- **Improve our documents:** Our [Contribution Guide](CONTRIBUTING.md) provides more information.
+- **Support our cause:** Your financial support is crucial to our work. You can [donate here](link-to-your-donation-page).
 
 ## Code of Conduct
 
