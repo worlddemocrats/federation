@@ -26,13 +26,13 @@ The name of this organization shall be the Federation of World Democrats (hencef
 
 ### Section 2. Purpose
 
-The purpose of this organization is to establish a democratic world government. This entails promoting global democratic values, advocating for equitable representation at all levels of global governance, mitigating existential risks, and harnessing technological advancements for the betterment of all.
+The purpose of this organization is to establish a democratic world government.
 
 ## Article II – Guiding Principles
 
 In pursuit of our goals, the World Democrats shall adhere to the following principles:
 
-- **Unity and Global Collaboration:** We advocate unity, cooperation, and shared purpose, not only within our Federation but also with global partners and supporters. This is reflective of our vision for an inclusive, democratic world.
+- **Unity and Global Collaboration:** We advocate unity, cooperation, and shared purpose, not only within our Federation but also with global partners and supporters.
 
 - **Focus on Impact and Global Relevance:** Our endeavors focus on addressing the pressing challenges and existential risks of our times. We prioritize initiatives that have substantial global benefits.
 
@@ -40,7 +40,7 @@ In pursuit of our goals, the World Democrats shall adhere to the following princ
 
 - **Innovation and Adaptability:** We foster a culture of innovation and adaptability, and staying responsive to political shifts, societal changes, and emerging global challenges. We embrace cutting-edge technologies, methods, and ideas.
 
-- **Openness, Transparency, and Accountability:** We operate with unwavering commitment to honesty, transparency, and accountability, ensuring that our actions and policies are guided by the best interests of our members and the global community we serve.
+- **Openness, Transparency, and Accountability:** We operate with unwavering commitment to openness, transparency, and accountability, ensuring that our actions and policies are guided by the best interests of our members and the global community we serve.
 
 ## Article III – Membership
 
@@ -51,11 +51,15 @@ Membership in the World Democrats is open to all individuals and organizations t
 ### Section 2. Categories of Membership
 
 The World Democrats shall have the following categories of membership:
-- Individual members: persons who support the objectives and principles of the World Democrats after being registered supporters for a minimum period of three months.
-- Organizational members: legally established organizations, associations, or institutions that support the objectives and principles of the World Democrats after being affiliated organizations for a minimum period of three months. 
-- Registered supporters: individuals who express interest in the World Democrats' objectives and principles, and wish to be involved in its activities.
-- Affiliated organizations: organizations that share common goals and values with the World Democrats and wish to establish a cooperative relationship.
-- Honorary members: distinguished individuals who have made significant contributions to the cause of democracy, human rights, or global governance, and have been invited by the World Democrats to accept honorary membership.
+- **Individual members**: persons who support the objectives and principles of the World Democrats after being registered supporters for a minimum period of three months.
+
+- **Organizational members**: legally established organizations, associations, or institutions that support the objectives and principles of the World Democrats after being affiliated organizations for a minimum period of three months. 
+
+- **Registered supporters**: individuals who express interest in the World Democrats' objectives and principles, and wish to be involved in its activities.
+
+- **Affiliated organizations**: organizations that share common goals and values with the World Democrats and wish to establish a cooperative relationship.
+
+- **Honorary members**: distinguished individuals who have made significant contributions to the cause of democracy, human rights, or global governance, and have been invited by the World Democrats to accept honorary membership.
 
 ### Section 3. Application for Membership
 
@@ -67,21 +71,21 @@ All members shall have the right to participate in the activities of the World D
 
 ### Section 5. Termination
 
-Membership, registered supporter status, and affiliated organization status may be terminated by the individual or organization upon written notice or by the World Democrats for failure to adhere to the principles and objectives of the organization, or for any other just cause, as determined by the Executive Committee. Termination of membership, registered supporter status, or affiliated organization status shall be subject to the right of appeal to the General Assembly.
+Membership status may be terminated by the individual or organization upon written notice or by the World Democrats for failure to adhere to the principles and objectives of the organization, or for any other just cause, as determined by the Executive Committee. Termination of membership shall be subject to the right of appeal to the Conflict Resolution Committee.
 
 ### Section 6. Code of Conduct
 
-All members, registered supporters, and affiliated organizations shall adhere to a Code of Conduct, which outlines the ethical standards and expected behaviors for those involved with the World Democrats. The Code of Conduct shall be developed and approved by the Executive Committee, and any amendments shall be subject to the approval of the General Assembly.
+All members shall adhere to a Code of Conduct, which outlines the ethical standards and expected behaviors for those involved with the World Democrats. The Code of Conduct shall be developed and approved by the Executive Committee, and any amendments shall be subject to the approval of the Representative Assembly.
 
 ### Section 7. Conflict of Interest Policy
 
-All members must act in the best interest of the World Democrats. They must avoid situations where personal interests could potentially conflict with their responsibilities to the organization. The World Democrats will establish a comprehensive conflict of interest policy to provide guidance on recognizing and addressing potential conflicts of interest. This policy shall be subject to approval by the General Assembly.
+All members must act in the best interest of the World Democrats. They must avoid situations where personal interests could potentially conflict with their responsibilities to the organization. The World Democrats will establish a comprehensive conflict of interest policy to provide guidance on recognizing and addressing potential conflicts of interest. This policy shall be subject to approval by the Representative Assembly.
 
 ## Article IV – Structure
 
 ### Section 1. General Assembly
 
-The General Assembly shall be the highest decision-making body of the World Democrats, composed of all members. It shall meet annually to set the organization's policies and strategies, elect the President, Vice President, and Representative Assembly, review the work and financial reports, and consider amendments to the Statute.
+The General Assembly shall be the highest decision-making body of the World Democrats, composed of all members. It shall meet annually to set the organization's policies and strategies, elect the President, Vice President, and Representative Assembly, review the work and financial reports, and consider amendments to the Constitution.
 
 ### Section 2. Extraordinary General Assembly
 
@@ -89,7 +93,7 @@ An Extraordinary General Assembly may be convened by the Executive Committee or 
 
 ### Section 3. Representative Assembly
 
-The Representative Assembly, comprised of representatives elected by the membership, will utilize a mixed electoral system that combines proportional representation based on faction lists and first-past-the-post methods. This system aims to ensure fair representation for different factions while also allowing for direct election of individual representatives. The size, composition, and election process for the Representative Assembly shall be determined by the General Assembly. The Representative Assembly has the power to approve the appointment of the Chairperson of the Executive Committee, and can withdraw its confidence from the Chairperson and other members of the Executive Committee.
+The Representative Assembly acts as the legislative branch of the World Democrats, entrusted with the formulation, debate, and approval of organizational policies and initiatives. Comprised of representatives elected by the membership, the Assembly plays a critical role in decision-making and provides oversight on the Executive Committee's performance. The size, composition, and election process for the Representative Assembly shall be determined by the General Assembly. The Representative Assembly has the power to approve the appointment of the Chairperson of the Executive Committee, and can withdraw its confidence from the Chairperson and other members of the Executive Committee.
 
 ### Section 4. Factions
 
