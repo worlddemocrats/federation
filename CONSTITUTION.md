@@ -95,11 +95,15 @@ The World Democrats may establish regional and national chapters to facilitate t
 
 ### Section 8. Working Groups and Committees
 
-The World Democrats may establish working groups and committees to focus on specific issues, campaigns, or projects related to its objectives and principles. These working groups and committees shall operate under the guidance of the Executive Committee and report to the Representative Assembly and the General Assembly on their activities and progress.
+The World Democrats may establish working groups and committees to focus on specific issues, campaigns, or projects related to its objectives and principles. These working groups and committees shall operate under the guidance of the Executive Committee and report to the Representative Assembly and the General Assembly on their activities and progress. The formation and dissolution of these groups and committees shall be carried out in a democratic manner, involving consultation with, and approval from, the Representative Assembly.
 
 ### Section 9. Secretariat
 
 The Secretariat shall be responsible for the day-to-day administration and operations of the World Democrats, under the direction of the Executive Committee. The Secretariat shall comprise staff members who support the work of the Executive Committee and the General Assembly and assist with the coordination of the organization's activities.
+
+### Section 10. Youth Wing
+
+Recognizing the crucial role of youth in shaping the future, the World Democrats shall establish a Youth Wing to engage, educate, and empower young members. The Youth Wing shall have representation in the Representative Assembly, giving youth a voice in the decision-making processes. Guidelines for the functioning and representation of the Youth Wing will be determined by the General Assembly.
 
 ## Article V – Provisions for Constitutional Review
 
