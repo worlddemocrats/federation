@@ -59,7 +59,9 @@ Membership, registered supporter status, and affiliated organization status may 
 
 All members, registered supporters, and affiliated organizations shall adhere to a Code of Conduct, which outlines the ethical standards and expected behaviors for those involved with the World Democrats. The Code of Conduct shall be developed and approved by the Executive Committee, and any amendments shall be subject to the approval of the General Assembly.
 
-All members and affiliates must avoid situations where personal interests could potentially conflict with their responsibilities to the organization. The World Democrats will establish a comprehensive conflict of interest policy to provide guidance on recognizing and addressing potential conflicts of interest. This policy shall be subject to approval by the General Assembly.
+### Section 7. Conflict of Interest Policy
+
+All members must act in the best interest of the World Democrats. They must avoid situations where personal interests could potentially conflict with their responsibilities to the organization. The World Democrats will establish a comprehensive conflict of interest policy to provide guidance on recognizing and addressing potential conflicts of interest. This policy shall be subject to approval by the General Assembly.
 
 ## Article IV – Structure
 
@@ -77,7 +79,7 @@ The Representative Assembly, comprised of representatives elected by the members
 
 ### Section 4. Factions
 
-Factions may be formed within the World Democrats by members who share a common political or ideological perspective. Factions shall have the right to nominate candidates for the Representative Assembly and contribute to the formulation of policy and strategy within the organization.
+Factions may be formed within the World Democrats by members who share a common political or ideological perspective. Factions shall have the right to nominate a faction list on the election of the Representative Assembly. They are expected to maintain regular communication with their members, promote democratic decision-making within the faction, and present a unified position during the Representative Assembly's meetings.
 
 ### Section 5. Executive Committee
 
