@@ -2,7 +2,7 @@
 
 ## Preamble
 
-We, recognizing the unprecedented pace of change and the imperative need to safeguard our collective future, hereby establish the Federation of World Democrats. In the spirit of unity, cooperation, and shared responsibility, we dedicate ourselves to the creation of a democratic world government that addresses the pressing global challenges of our time.
+In the face of rapid technological change and existential global risks, we, the Federation of World Democrats, affirm our commitment to the establishment of a democratic world government. This vision embodies our shared purpose: a future where global challenges are effectively managed for the benefit of all humanity. Guided by principles of global collaboration, impact, inclusivity, innovation, and transparency, we unite to forge a democratic global society that harnesses change and mitigates risks.
 
 ## Article I – Name and Purpose
 
@@ -12,12 +12,13 @@ The name of this organization shall be the Federation of World Democrats (hencef
 
 **Section 2. Purpose**
 
-The purpose of this organization is to:
+The purpose of this organization is to establish a democratic world government. In this endeavor, we aim to:
 
-- Unite individuals and communities worldwide to shape the future of governance.
-- Foster a sense of shared responsibility and global citizenship.
-- Establish effective institutions to uphold the rule of law, safeguard democracy, and govern global affairs transparently and efficiently.
-- Harness the power of collective action to build a brighter future for generations to come, safeguard our planet, and uphold democratic values on a global scale.
+- Foster global collaboration and community, uniting individuals, organizations, and societies around our shared vision.
+- Prioritize initiatives and actions with significant global impact, addressing pressing challenges and existential risks.
+- Advocate for inclusivity and representation, ensuring diverse voices and perspectives from various social, cultural, and geographical backgrounds are integral to our decision-making processes.
+- Maintain agility and adaptability in the face of evolving political landscapes, societal needs, and emerging challenges. We embrace innovation, harnessing cutting-edge technologies and ideas to enhance our organization's impact and resilience.
+- Uphold the principles of openness, transparency, and accountability in all our operations, fostering clear communication with supporters and facilitating the exchange of ideas and feedback.
 
 ## Article II – Guiding Principles
 
