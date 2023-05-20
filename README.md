@@ -1,11 +1,13 @@
 # World Democrats
 
-Founded in 2023, the World Democrats was born out of the recognition that a new model of governance is urgently needed to address the complex challenges of the 21st century. Recognizing the implications of accelerating progress, we are dedicated to laying the groundwork for a democratic world government to manage its risks and harness its potential for the benefit of all humanity.
+Welcome to the World Democrats' main repository. Our community was born out of the recognition that a new model of governance is urgently needed to address the complex challenges of the 21st century. Since then, we have been laying the groundwork for a democratic world government that can effectively manage existential risks and harness the potential of accelerating change for the benefit of all humanity.
 
-## Our Main Activities
+## Our Current Focus
 
-- **Community Building:** We foster an inclusive [global](https://discord.gg/KhuwtTPnXa) [community](https://www.facebook.com/groups/worlddemocrats) where everyone can participate in discussion and collaboration.
-- **Education:** We are running a [political academy](https://github.com/worlddemocrats/academy) to provide comprehensive education on topics related to our mission.
+Currently, we're channeling our efforts into three primary activities:
+
+- **Community Building:** We foster a diverse, global community through our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
+- **Education:** We are running a [Political Academy](https://github.com/worlddemocrats/academy) to provide comprehensive education on topics related to our mission.
 - **Partnerships and Collaboration:** We actively partner with organizations and networks that share our vision.
 
 ## Repository Content
