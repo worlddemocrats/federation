@@ -10,19 +10,19 @@ The President, Representative Assembly, or two-thirds of members can convene an 
 
 ### Section 3. Representative Assembly
 
-The Representative Assembly, similar to a parliament, legislates and scrutinizes the organization's functioning. It can pass resolutions, formulate and approve organizational policies, and oversee the Executive Committee. The assembly has the right to call for confidence votes and can approve or dismiss the appointment of the Chairperson of the Executive Committee. The assembly also reviews and approves the annual budget proposed by the Executive Committee.
+The Representative Assembly legislates and scrutinizes the organization's functioning. It can pass resolutions, formulate and approve organizational policies, and oversee the Executive Committee. The assembly has the right to call for confidence votes and can approve or dismiss the appointment of the Chairperson of the Executive Committee. The assembly also reviews and approves the annual budget proposed by the Executive Committee.
 
 ### Section 4. Factions
 
-Factions, equivalent to political parties, represent ideological subsets within the membership. Factions play a key role in nominating candidates for the Representative Assembly and other organizational roles, propose policies, and voice their views within the Representative Assembly. 
+Factions represent ideological subsets within the membership. Factions play a key role in nominating candidates for the Representative Assembly and other organizational roles, propose policies, and voice their views within the Representative Assembly. 
 
 ### Section 5. Executive Committee
 
-The Executive Committee, akin to a cabinet, executes the World Democrats' daily activities according to the strategies and policies set by the General Assembly and Representative Assembly. It proposes policy changes and presents an annual budget to the Representative Assembly, ensuring that all components of the organization function efficiently.
+The Executive Committee executes the World Democrats' daily activities according to the strategies and policies set by the General Assembly and Representative Assembly. It proposes policy changes and presents an annual budget to the Representative Assembly, ensuring that all components of the organization function efficiently.
 
 ### Section 6. Chairperson of the Executive Committee
 
-The Chairperson, much like a Prime Minister, manages and coordinates the Executive Committee. They ensure the proper execution of the policies approved by the Representative Assembly, propose policy changes, and present the annual budget. The Chairperson also represents the organization in operational matters and coordinates the activities of the various organizational components.
+The Chairperson manages and coordinates the Executive Committee. They ensure the proper execution of the policies approved by the Representative Assembly, propose policy changes, and present the annual budget. The Chairperson also represents the organization in operational matters and coordinates the activities of the various organizational components.
 
 ### Section 7. President and Vice President
 
