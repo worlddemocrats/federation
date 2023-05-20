@@ -1,7 +1,7 @@
 # Our Vision and Mission Statement
 
 ## Vision
-We envision a future in which a democratic world government unites people, effectively addresses global challenges, and fosters enduring peace, security, and stability.
+We envision a future where a democratic world government effectively manages existential risks and harnesses technological change for the benefit of all humanity.
 
 ## Mission
 Our mission is to establish a democratic world government.
