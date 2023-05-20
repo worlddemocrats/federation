@@ -147,7 +147,7 @@ Any question or dispute concerning the interpretation of this Statute shall be r
 
 ### Section 2. Dispute Resolution
 
-Any dispute arising between members or between members and the World Democrats, in connection with the objectives, principles, or activities of the organization, shall be resolved through negotiation, mediation, or any other peaceful means agreed upon by the parties involved. The General Assembly may establish procedures and mechanisms for the resolution of disputes, as necessary.
+Any dispute arising between members or between members and the World Democrats, in connection with the objectives, principles, or activities of the organization, shall be resolved through negotiation, mediation, or any other peaceful means agreed upon by the parties involved. The General Assembly shall establish procedures and mechanisms for the resolution of disputes, such as the formation of a Conflict Resolution Committee or engagement of a neutral third-party mediator, as necessary.
 
 ### Section 3. Evaluation and Monitoring
 
@@ -177,9 +177,9 @@ The World Democrats shall promote linguistic diversity and the use of minority a
 
 The World Democrats shall operate in compliance with all applicable laws and regulations of the jurisdiction(s) in which it is registered and carries out its activities.
 
-### Section 2. Non-Discrimination
+### Section 2. Non-Discrimination and Inclusivity
 
-The World Democrats shall not discriminate on the basis of race, color, religion, gender, age, national origin, disability, sexual orientation, or any other characteristic protected by law, in any of its activities or operations.
+The World Democrats shall not discriminate on the basis of race, color, religion, gender, age, national origin, disability, sexual orientation, or any other characteristic protected by law, in any of its activities or operations. The World Democrats is committed to fostering an inclusive environment where diversity is celebrated and all members feel valued and empowered.
 
 ### Section 3. Transparency and Accountability
 
@@ -187,6 +187,10 @@ The World Democrats shall maintain high standards of transparency and accountabi
 
 ### Section 4. Technology Use
 
-The World Democrats shall leverage digital technology for efficient operation and communication. Virtual meetings and online voting procedures shall be implemented as needed. All activities that involve the use of technology shall be governed by a comprehensive data protection and privacy policy approved by the General Assembly.
+The World Democrats shall leverage digital technology for efficient operation and communication. Virtual meetings and online voting procedures shall be implemented as needed. All activities that involve the use of technology shall be governed by a comprehensive data protection, privacy, and digital security policy approved by the General Assembly. The organization shall commit to ensuring the digital safety of its members and the integrity of its online platforms.
+
+### Section 5. Open Dialogue 
+
+The World Democrats shall encourage open and constructive dialogue among members, affiliated organizations, and external parties. All members shall have the right to express their views and ideas, provided they are consistent with the organization's code of conduct and principles.
 
 Adopted by the founding members of the World Democrats on [Date].
