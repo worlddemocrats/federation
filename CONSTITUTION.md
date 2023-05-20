@@ -2,7 +2,21 @@
 
 ## Preamble
 
-We, the Federation of World Democrats, standing at the frontier of a rapidly evolving global landscape, pledge to construct a democratic world government. This pledge embodies our unwavering commitment towards a future where existential risks are managed effectively, and technological advancements are leveraged for the betterment of all. Inspired by a sense of global unity, we aspire to navigate these changes collaboratively, focusing on significant global impacts, advocating for inclusivity, encouraging innovation, and operating with total transparency. In this spirit, we unite to mold a global society resilient in the face of change and capable of turning global challenges into opportunities.
+We, the Federation of World Democrats, standing at the frontier of a rapidly evolving global landscape, pledge to establish a democratic world government. This pledge embodies our unwavering commitment towards a future where existential risks are managed effectively, and the fruits of technological progress are harnessed for the common good of all people.
+
+In the face of profound societal transformations brought about by rapid technological developments, we champion an era of innovation that uplifts economies, enriches cultures, and empowers individuals and communities. We envision a world where technology serves as a tool for inclusive growth, enabling equitable access to resources and opportunities.
+
+Inspired by a sense of global unity, we aspire to navigate these changes collaboratively. We strive to build a platform for open dialogue and consensus, fostering a culture of respect for diversity and pluralism. We endeavor to voice the concerns of the marginalized, advocating for justice, equality, and dignity for all.
+
+Focusing on significant global impacts, we pledge to act as a global steward, driving cooperative efforts to combat climate change, address socioeconomic disparities, and promote sustainable development. We are committed to defending human rights, preserving peace, and protecting our planet for future generations.
+
+Advocating for inclusivity, we seek to establish an egalitarian society where every voice matters. We stand for participatory democracy, affirming that all members have the right to contribute to and shape the policies that affect their lives. We stand against discrimination in all its forms, striving for a world where everyone, regardless of their identity or background, can thrive.
+
+Encouraging innovation, we stimulate creativity, critical thinking, and forward-looking solutions to global challenges. We promote educational and scientific exchanges, fostering a spirit of intellectual curiosity and lifelong learning. We recognize the role of youth as the architects of the future, nurturing their potentials and amplifying their voices.
+
+Operating with total transparency, we uphold the principles of accountability, integrity, and openness. We commit to maintaining transparent decision-making processes, ensuring that our actions are guided by the best interests of our members and the global community.
+
+In this spirit, we unite to mold a global society resilient in the face of change and capable of turning global challenges into opportunities. As we journey towards a new era of global democracy, we remain steadfast in our belief in the collective wisdom of humanity and the power of democratic values to shape a brighter future for all.
 
 ## Article I – Name and Purpose
 
