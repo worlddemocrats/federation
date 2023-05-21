@@ -7,16 +7,16 @@ Welcome to the main repository of the World Democrats! Our community was born ou
 Currently, we're channeling our efforts into two primary activities:
 
 - **Community building:** We actively partner with organizations and networks that share our vision, and foster a diverse, global community through our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
-- **Education:** We are running an [academy](https://github.com/worlddemocrats/academy) to provide comprehensive education on topics related to our mission.
+- **Education:** We are running an [Academy](https://github.com/worlddemocrats/academy) to provide comprehensive education on topics related to our mission.
 
 ## Repository Content
 
 This main repository serves as the central hub for all important information related to our organization. It currently contains the following documents:
 
-- [Vision and mission statement](https://github.com/worlddemocrats/federation/blob/main/VISION_AND_MISSION.md)
-- [Organizational culture](https://github.com/worlddemocrats/federation/blob/main/ORGANIZATIONAL_CULTURE.md)
+- [Vision and Mission Statement](https://github.com/worlddemocrats/federation/blob/main/VISION_AND_MISSION.md)
+- [Organizational Culture](https://github.com/worlddemocrats/federation/blob/main/ORGANIZATIONAL_CULTURE.md)
 - [Constitution](https://github.com/worlddemocrats/federation/blob/main/CONSTITUTION.md)
-- [Strategic plan](https://github.com/worlddemocrats/federation/blob/main/STRATEGIC_PLAN.md)
+- [Strategic Plan](https://github.com/worlddemocrats/federation/blob/main/STRATEGIC_PLAN.md)
 
 ## Engage With Us
 
