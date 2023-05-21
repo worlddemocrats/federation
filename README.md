@@ -4,7 +4,7 @@ Welcome to the main repository of the World Democrats! Our community was born ou
 
 ## Our Current Focus
 
-In line with our strategic objectives, our current efforts concentrate on the following key areas:
+Our current efforts concentrate on the following key areas:
 
 - **Membership Expansion:** We're striving to build an expansive, global community that shares our vision. We're actively engaging with like-minded organizations and networks, while also fostering participation through our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
 
