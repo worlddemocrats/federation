@@ -40,9 +40,7 @@ The Vice President assists the President and assumes the President's responsibil
 
 ### Section 8. Regional and National Chapters
 
-Regional and National Chapters work to implement the World Democrats' objectives at various regional and local levels. They ensure the organization's policies and strategies are executed effectively at different governance levels and maintain regular communication with the Executive Committee.
-
-These chapters report their activities, progress, and regional developments to the General Assembly and Executive Committee, ensuring that regional perspectives are well-represented in the organization's strategies.
+Regional and National Chapters work to implement the World Democrats' objectives at various regional and local levels. They ensure the organization's policies and strategies are executed effectively at different governance levels and maintain regular communication with the Executive Committee. These chapters report their activities, progress, and regional developments to the General Assembly and Executive Committee, ensuring that regional perspectives are well-represented in the organization's strategies.
 
 ### Section 9. Working Groups and Committees
 
