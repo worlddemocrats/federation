@@ -22,7 +22,7 @@ In this spirit, we unite to shape a resilient society, one that is well-equipped
 
 ### Section 1. Name
 
-The name of this organization shall be the Federation of World Democrats (henceforth referred to as "the World Democrats").
+The name of this organization shall be the Federation of World Democrats (hereinafter referred to as "the World Democrats").
 
 ### Section 2. Purpose
 
@@ -51,15 +51,15 @@ Membership in the World Democrats is open to all individuals and organizations t
 ### Section 2. Categories of Membership
 
 The World Democrats shall have the following categories of membership:
-- **Individual members**: persons who support the objectives and principles of the World Democrats after being registered supporters for a minimum period of three months.
+- **Individual members**: Persons who support the objectives and principles of the World Democrats after being registered supporters for a minimum period of three months.
 
-- **Organizational members**: legally established organizations, associations, or institutions that support the objectives and principles of the World Democrats after being affiliated organizations for a minimum period of three months. 
+- **Organizational members**: Legally established organizations, associations, or institutions that support the objectives and principles of the World Democrats after being affiliated organizations for a minimum period of three months. 
 
-- **Registered supporters**: individuals who express interest in the World Democrats' objectives and principles, and wish to be involved in its activities.
+- **Registered supporters**: Individuals who express interest in the World Democrats' objectives and principles, and wish to be involved in its activities.
 
-- **Affiliated organizations**: organizations that share common goals and values with the World Democrats and wish to establish a cooperative relationship.
+- **Affiliated organizations**: Organizations that share common goals and values with the World Democrats and wish to establish a cooperative relationship.
 
-- **Honorary members**: distinguished individuals who have made significant contributions to the cause of democracy, human rights, or global governance, and have been invited by the World Democrats to accept honorary membership.
+- **Honorary members**: Distinguished individuals who have made significant contributions to the cause of democracy, human rights, or global governance, and have been invited by the World Democrats to accept honorary membership.
 
 ### Section 3. Application for Membership
 
