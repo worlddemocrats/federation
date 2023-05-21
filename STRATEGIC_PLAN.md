@@ -1,4 +1,4 @@
-# Strategic Plan for the Federation of World Democrats
+# Strategic Plan of the World Democrats
 
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
@@ -11,14 +11,14 @@
 8. [Review and Update Process](#review-and-update-process)
 
 ## Executive Summary
-The Federation of World Democrats, envisioned as a forerunner in developing a new governance model to solve the world's most critical issues, is focused on the grand goal of pioneering a democratic world government. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
+The World Democrats, envisioned as a forerunner in developing a new governance model to solve the world's most critical issues, is focused on the goal of pioneering a democratic world government. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
 
 ## Context and Environment
-As the world experiences an accelerating pace of technological progress and the looming shadow of existential risks, the call for a governance model that promotes equality, dignity, and justice for all becomes increasingly resonant. It is in this space that the Federation of World Democrats aspires to create a trailblazing democratic world government.
+As the world experiences an accelerating pace of technological progress and the looming shadow of existential risks, the call for a governance model that promotes equality, dignity, and justice for all becomes increasingly resonant. It is in this space that the World Democrats aspires to create a democratic world government.
 
 ## Mission and Vision
 **Mission**: To be the catalyst for the establishment of a democratic world government.
-**Vision**: To spearhead a future where a democratic world government capably manages existential risks and harnesses technological advancements for global prosperity.
+**Vision**: To spearhead a future where a democratic world government effectively manages existential risks and harnesses technological advancements for global prosperity.
 
 ## Values and Guiding Principles
 1. **Unity and Global Collaboration**: Champion unity, cooperation, and collective purpose on a global scale.
@@ -43,7 +43,7 @@ As the world experiences an accelerating pace of technological progress and the 
 
 4. **Influence and Leadership**
    - Ascend to a globally recognized leadership role in international forums.
-   - Establish the Federation of World Democrats as a trusted voice in discussions of existential risks and technological change.
+   - Establish the World Democrats as a trusted voice in discussions of existential risks and technological change.
 
 5. **Collaboration and Partnerships**
    - Engage in meaningful collaborations with other organizations, institutions, and governments that align with our mission.
