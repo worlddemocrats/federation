@@ -32,7 +32,7 @@ The purpose of this organization is to establish a democratic world government.
 
 In pursuit of our goals, the World Democrats shall adhere to the following principles:
 
-- **Unity and Global Collaboration:** We advocate unity, cooperation, and shared purpose, not only within our Federation but also with global partners and supporters.
+- **Unity and Global Collaboration:** We advocate unity, cooperation, and shared purpose, not only within our organization but also with global partners and supporters.
 
 - **Focus on Impact and Global Relevance:** Our endeavors focus on addressing the pressing challenges and existential risks of our times. We prioritize initiatives that have substantial global benefits.
 
@@ -117,11 +117,11 @@ The Chairperson is accountable to the Representative Assembly and can be called 
 
 ### Section 7. President and Vice President
 
-The President, as the highest representative of the World Democrats, ensures unity, integrity, and cohesion of the organization's activities. They also oversee inter-organizational relations and have the power to appoint the Chairperson of the Executive Committee, subject to approval by the Representative Assembly.
+The President, as the highest representative of the World Democrats, ensures unity, integrity, and cohesion of the organization's activities. The President also oversees inter-organizational relations and have the power to appoint the Chairperson of the Executive Committee, subject to approval by the Representative Assembly.
 
 The Vice President assists the President and assumes the President's responsibilities in their absence or incapacity. The Vice President also plays a crucial role in supporting and facilitating the organization's initiatives, programs, and strategic direction.
 
-The process for the President and Vice President shall be determined by the General Assembly.
+The election process of the President and Vice President shall be determined by the General Assembly.
 
 ### Section 8. Regional and National Chapters
 
@@ -157,25 +157,25 @@ The financial accounts and records of the World Democrats shall be subject to an
 
 ### Section 1. Proposal
 
-Amendments to this Statute may be proposed in writing by a minimum of one percent of World Democrats members and submitted to the Executive Committee at least 60 days before the next General Assembly.
+Proposals for amendments to this Constitution may be initiated by any member of the World Democrats. However, before such proposals are formally submitted, they must garner written support from a minimum of one percent of the total membership. Upon satisfying this threshold, proposals are to be presented to the Executive Committee no less than 60 days before the subsequent General Assembly session. 
 
-### Section 2. Approval
+### Section 2. Ratification
 
-Amendments to this Statute shall be considered and voted upon at the General Assembly. A three-fourths majority vote of the members present and voting shall be required for the adoption of any amendment.
+For the formal amendment of this Constitution, the proposed changes shall be deliberated upon at the General Assembly. To effect these amendments, a supermajority—specifically a two-thirds vote of the members present and participating—is required.
 
 ## Article VIII – Dissolution
 
 ### Section 1. Proposal
 
-A proposal to dissolve the World Democrats may be submitted in writing by at least one percent of the members to the Executive Committee, who shall include the proposal on the agenda of the next General Assembly.
+Similar to amendments, proposals for the dissolution of the World Democrats must be written and have the backing of at least one percent of the membership. The Executive Committee, upon receiving such a proposal, is obligated to include it in the agenda of the forthcoming General Assembly session.
 
-### Section 2. Approval
+### Section 2. Execution
 
-The dissolution of the World Democrats shall require a three-fourths majority vote of the members present and voting at the General Assembly. In the event of dissolution, the General Assembly shall determine the appropriate distribution of the World Democrats' assets, with due consideration given to the organization's objectives and principles.
+Should the proposal to dissolve the World Democrats receive approval, the manner of execution requires a supermajority vote—specifically three-fourths of the members present and voting—at the General Assembly. In such an event, the General Assembly is also tasked with the equitable distribution of the World Democrats' assets, with decisions guided by the organization's stated objectives and principles.
 
 ## Article IX – Entry into Force
 
-This Statute enters into force upon adoption by a two-thirds majority vote of the founding members present and voting during the World Democrats' inaugural meeting.
+This Statute enters into force upon adoption by a three-fourths majority vote of the founding members present and voting during the World Democrats' inaugural meeting.
 
 ## Article X – Interpretation and Dispute Resolution
 
