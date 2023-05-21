@@ -157,25 +157,25 @@ The financial accounts and records of the World Democrats shall be subject to an
 
 ### Section 1. Proposal
 
-Proposals for amendments to this Constitution may be initiated by any member of the World Democrats. However, before such proposals are formally submitted, they must garner written support from a minimum of one percent of the total membership. Upon satisfying this threshold, proposals are to be presented to the Executive Committee no less than 60 days before the subsequent General Assembly session. 
+Initiation of amendments to this Constitution may be made by any member of the World Democrats. However, for a proposed amendment to gain validity, it must receive written endorsement from no less than one percent of the total membership. Such validated proposals must then be submitted to the Executive Committee, no fewer than 60 days before the subsequent General Assembly convening. 
 
 ### Section 2. Ratification
 
-For the formal amendment of this Constitution, the proposed changes shall be deliberated upon at the General Assembly. To effect these amendments, a supermajority—specifically a two-thirds vote of the members present and participating—is required.
+The proposed amendment shall be presented to the General Assembly for consideration and voting. A two-thirds supermajority of the members in attendance and casting their votes is mandatory for the approval and implementation of any proposed amendments.
 
 ## Article VIII – Dissolution
 
 ### Section 1. Proposal
 
-Similar to amendments, proposals for the dissolution of the World Democrats must be written and have the backing of at least one percent of the membership. The Executive Committee, upon receiving such a proposal, is obligated to include it in the agenda of the forthcoming General Assembly session.
+Proposals advocating for the dissolution of the World Democrats must be in written form and must amass backing from a minimum of one percent of the total membership. Upon gathering the necessary support, such a proposal must be submitted to the Executive Committee for inclusion in the upcoming General Assembly agenda.
 
 ### Section 2. Execution
 
-Should the proposal to dissolve the World Democrats receive approval, the manner of execution requires a supermajority vote—specifically three-fourths of the members present and voting—at the General Assembly. In such an event, the General Assembly is also tasked with the equitable distribution of the World Democrats' assets, with decisions guided by the organization's stated objectives and principles.
+A dissolution proposal, upon its approval, mandates a three-fourths supermajority vote from the members in attendance and voting during the General Assembly. In the event of an approved dissolution, it falls to the General Assembly to oversee the equitable allocation of the World Democrats' assets. This process is to be guided by the tenets and objectives as set forth by the organization.
 
 ## Article IX – Entry into Force
 
-This Statute enters into force upon adoption by a three-fourths majority vote of the founding members present and voting during the World Democrats' inaugural meeting.
+This Constitution enters into force upon adoption by a three-fourths majority vote of the founding members present and voting during the World Democrats' inaugural meeting.
 
 ## Article X – Interpretation and Dispute Resolution
 
