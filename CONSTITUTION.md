@@ -111,9 +111,7 @@ This committee ensures the different organizational components function effectiv
 
 ### Section 6. Chairperson of the Executive Committee
 
-The Chairperson of the Executive Committee leads the execution of the World Democrats' operations. Appointed by the President and approved by the Representative Assembly, they ensure the proper execution of policies, propose new policy changes, and present the annual budget to the Representative Assembly.
-
-The Chairperson is accountable to the Representative Assembly and can be called upon to answer questions, justify decisions, and provide clarity on actions of the Executive Committee.
+The Chairperson of the Executive Committee leads the execution of the World Democrats' operations. Appointed by the President and approved by the Representative Assembly, they ensure the proper execution of policies and propose new policy changes. The Chairperson is accountable to the Representative Assembly and can be called upon to answer questions, justify decisions, and provide clarity on actions of the Executive Committee.
 
 ### Section 7. President and Vice President
 
@@ -140,17 +138,16 @@ The Youth Wing is a critical component of the World Democrats, ensuring that the
 At least once every 2 years, the constitution of the World Democrats undergo a comprehensive review to ensure it continues to reflect the needs and realities of the organization and the broader global context. This review shall be conducted by a special committee elected by the General Assembly and any amendments proposed by this review shall be subject to the approval of the General Assembly.
 
 ## Article VI – Finances
-
 ### Section 1. Funding
-
 The World Democrats shall be funded through membership fees, donations, grants, and other lawful means, as determined by the General Assembly.
 
 ### Section 2. Financial Management
+The Treasurer shall oversee the management of the World Democrats' financial resources, prepare annual financial reports, and ensure transparency and accountability in all financial matters. The Treasurer is appointed by the Chairperson of the Executive Committee and approved by the Representative Assembly. The Representative Assembly shall be responsible for approving budgets and overseeing financial operations.
 
-The Treasurer shall oversee the management of the World Democrats' financial resources, prepare annual financial reports, and ensure transparency and accountability in all financial matters. The Treasurer shall be accountable to the Executive Committee, the Representative Assembly, and the General Assembly. The Executive Committee shall be responsible for approving budgets and overseeing financial operations.
+### Section 3. Fund Allocation
+Funds gathered by the World Democrats shall be utilized to further the objectives and mission of the organization as outlined in this constitution. The allocation of funds for projects, activities, or initiatives shall be subject to the approval of the Executive Committee and, in significant cases, require the approval of the Representative Assembly. The organization shall ensure that no funds are used for purposes that contradict the principles and objectives of the World Democrats.
 
-### Section 3. Auditing
-
+### Section 4. Auditing
 The financial accounts and records of the World Democrats shall be subject to an annual independent audit, as appointed by the General Assembly. The audit report shall be presented to the General Assembly for review and approval.
 
 ## Article VII – Amendments
