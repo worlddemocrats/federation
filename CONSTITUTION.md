@@ -79,53 +79,65 @@ All members shall adhere to a Code of Conduct, which outlines the ethical standa
 
 ### Section 7. Conflict of Interest Policy
 
-All members must act in the best interest of the World Democrats. They must avoid situations where personal interests could potentially conflict with their responsibilities to the organization. The World Democrats will establish a comprehensive conflict of interest policy to provide guidance on recognizing and addressing potential conflicts of interest. This policy shall be subject to approval by the Representative Assembly.
+All members must act in the best interest of the World Democrats. They must avoid situations where personal interests could potentially conflict with their responsibilities to the organization. The World Democrats shall establish a comprehensive conflict of interest policy to provide guidance on recognizing and addressing potential conflicts of interest. This policy shall be subject to approval by the Representative Assembly.
 
 ## Article IV – Structure
 
 ### Section 1. General Assembly
 
-The General Assembly shall be the highest decision-making body of the World Democrats, composed of all members. It shall meet annually to set the organization's policies and strategies, elect the President, Vice President, and Representative Assembly, review the work and financial reports, and consider amendments to the Constitution.
+The General Assembly shall be the principal democratic organ of the World Democrats, comprising all members of the organization. It holds the ultimate power and responsibility to guide the overall direction and policy of the World Democrats. The General Assembly meets annually for regular sessions and, when necessary, in special sessions, known as Extraordinary General Assemblies.
+
+Members of the General Assembly elect the President, Vice President, and Representative Assembly. They also provide input on the overall strategy, policy matters, and review of the organization's functioning and progress. Furthermore, the General Assembly ratifies constitutional amendments and provides a forum for all members to participate actively in the organization's decision-making process.
 
 ### Section 2. Extraordinary General Assembly
 
-An Extraordinary General Assembly may be convened by the Executive Committee or upon the written request of at least two-thirds of the members, to address urgent matters or specific issues requiring the attention of the entire membership.
+An Extraordinary General Assembly may be convened by the President, Representative Assembly, or at least two-thirds of the membership, to address urgent or critical matters requiring immediate resolution or attention. This could include significant changes in global political conditions, emergencies, or other time-sensitive issues that cannot wait until the next scheduled meeting of the General Assembly.
 
 ### Section 3. Representative Assembly
 
-The Representative Assembly acts as the legislative branch of the World Democrats, entrusted with the formulation, debate, and approval of organizational policies and initiatives. Comprised of representatives elected by the membership, the Assembly plays a critical role in decision-making and provides oversight on the Executive Committee's performance. The size, composition, and election process for the Representative Assembly shall be determined by the General Assembly. The Representative Assembly has the power to approve the appointment of the Chairperson of the Executive Committee, and can withdraw its confidence from the Chairperson and other members of the Executive Committee.
+The Representative Assembly acts as the legislative body of the World Democrats and is elected by the General Assembly. The size, composition, and election process for the Representative Assembly shall be determined by the General Assembly. This assembly has the authority to formulate, debate, and approve policies and strategies.
+
+The Representative Assembly has the power to summon the Chairperson of the Executive Committee for questioning, propose and pass resolutions, and has the right to call for votes of confidence. Furthermore, the Representative Assembly is also responsible for reviewing and approving the annual budget and major initiatives proposed by the Executive Committee.
 
 ### Section 4. Factions
 
-Factions may be formed within the World Democrats by members who share a common political or ideological perspective. Factions shall have the right to nominate a faction list on the election of the Representative Assembly. They are expected to maintain regular communication with their members, promote democratic decision-making within the faction, and present a unified position during the Representative Assembly's meetings.
+Factions within the World Democrats are representing different political and ideological perspectives within the organization. Factions have the right to nominate candidates for the Representative Assembly and other organizational positions, propose policies and initiatives. Further regulation and details regarding the formation, functioning, and dissolution of Factions are determined by the General Assembly.
 
 ### Section 5. Executive Committee
 
-The Executive Committee shall be responsible for the execution of the World Democrats' activities, in accordance with the policies and strategies set by the General Assembly and the Representative Assembly. The Chairperson of the Executive Committee should be appointed by the President, subject to the approval of the Representative Assembly. The Chairperson shall lead the Executive Committee, which will consist of other officers as determined by the Chairperson, subject to the approval of the Representative Assembly. The Executive Committee shall meet at least quarterly and report to the Representative Assembly and the General Assembly.
+The Executive Committee shall be responsible for executing the day-to-day activities of the World Democrats, adhering to the strategies and policies set by the General Assembly and Representative Assembly. It proposes policy changes and presents an annual budget to the Representative Assembly for approval. The Executive Committee shall consist of officers as determined by the Chairperson of the Executive Committee, subject to the approval of the Representative Assembly.
 
-### Section 6. President and Vice President
+This committee ensures the different organizational components function effectively and are in line with the World Democrats' objectives. It also oversees the work of the Secretariat and regional and national chapters.
 
-The World Democrats shall have a President and Vice President, elected by the General Assembly for a term of one year. The terms of the President and Vice President are limited to two consecutive terms. The President shall represent the organization at a high level, oversee inter-organizational relations, maintain integrity and ethical standards, and ensure the unity and cohesion of the World Democrats' activities. The President appoints the Chairperson of the Executive Committee, subject to approval by the Representative Assembly. The Vice President shall assist the President in their duties and assume the responsibilities of the President in their absence or incapacity.
+### Section 6. Chairperson of the Executive Committee
 
-### Section 7. Regional and National Chapters
+The Chairperson of the Executive Committee leads the execution of the World Democrats' operations. Appointed by the President and approved by the Representative Assembly, they ensure the proper execution of policies, propose new policy changes, and present the annual budget to the Representative Assembly.
 
-The World Democrats may establish regional and national chapters to facilitate the organization's work at different levels of governance and to engage with local and regional communities. These chapters shall operate under the guidance of the Executive Committee and report to the General Assembly on their activities and progress. The establishment and governance of regional and national chapters shall be determined by the General Assembly and guided by the principles and objectives of the World Democrats. These chapters shall maintain a close relationship with the Executive Committee, ensuring alignment and coordination of activities at all levels of the organization.
+The Chairperson is accountable to the Representative Assembly and can be called upon to answer questions, justify decisions, and provide clarity on actions of the Executive Committee.
 
-### Section 8. Working Groups and Committees
+### Section 7. President and Vice President
 
-The World Democrats may establish working groups and committees to focus on specific issues, campaigns, or projects related to its objectives and principles. These working groups and committees shall operate under the guidance of the Executive Committee and report to the Representative Assembly and the General Assembly on their activities and progress. The formation and dissolution of these groups and committees shall be carried out in a democratic manner, involving consultation with, and approval from, the Representative Assembly.
+The President, as the highest representative of the World Democrats, ensures unity, integrity, and cohesion of the organization's activities. They also oversee inter-organizational relations and have the power to appoint the Chairperson of the Executive Committee, subject to approval by the Representative Assembly.
+
+The Vice President assists the President and assumes the President's responsibilities in their absence or incapacity. The Vice President also plays a crucial role in supporting and facilitating the organization's initiatives, programs, and strategic direction.
+
+The process for the President and Vice President shall be determined by the General Assembly.
+
+### Section 8. Regional and National Chapters
+
+Regional and National Chapters work to implement the World Democrats' objectives at various regional and local levels. They ensure the organization's policies and strategies are executed effectively at different governance levels and maintain regular communication with the Executive Committee. These chapters report their activities, progress, and regional developments to the General Assembly and Executive Committee, ensuring that regional perspectives are well-represented in the organization's strategies.
 
 ### Section 9. Secretariat
 
-The Secretariat shall be responsible for the day-to-day administration and operations of the World Democrats, under the direction of the Executive Committee. The Secretariat shall comprise staff members who support the work of the Executive Committee and the General Assembly and assist with the coordination of the organization's activities.
+The Secretariat manages the day-to-day operations and administration of the World Democrats, ensuring that all activities and initiatives are coordinated efficiently. The Secretariat supports the Executive Committee, Representative Assembly, and General Assembly in the execution of their duties and roles.
 
 ### Section 10. Youth Wing
 
-Recognizing the crucial role of youth in shaping the future, the World Democrats shall establish a Youth Wing to engage, educate, and empower young members. The Youth Wing shall have representation in the Representative Assembly, giving youth a voice in the decision-making processes. Guidelines for the functioning and representation of the Youth Wing will be determined by the General Assembly.
+The Youth Wing is a critical component of the World Democrats, ensuring that the voices and perspectives of younger members are well-represented within the organization. The Youth Wing contributes to policy discussions, organizes activities focusing on the needs and interests of younger members, and has representation in the Representative Assembly.
 
 ## Article V – Provisions for Constitutional Review
 
-At least once every 2 years, the constitution of the World Democrats shall undergo a comprehensive review to ensure it continues to reflect the needs and realities of the organization and the broader global context. This review shall be conducted by a special committee elected by the General Assembly and any amendments proposed by this review shall be subject to the approval of the General Assembly.
+At least once every 2 years, the constitution of the World Democrats undergo a comprehensive review to ensure it continues to reflect the needs and realities of the organization and the broader global context. This review shall be conducted by a special committee elected by the General Assembly and any amendments proposed by this review shall be subject to the approval of the General Assembly.
 
 ## Article VI – Finances
 
