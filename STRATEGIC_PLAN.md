@@ -18,8 +18,9 @@ The World Democrats, envisioned as a forerunner in developing a new governance m
 As the world experiences an accelerating pace of technological progress and the looming shadow of existential risks, the call for a governance model that promotes equality, dignity, and justice for all becomes increasingly resonant. It is in this space that the World Democrats aspires to create a democratic world government.
 
 ## Mission and Vision
-**Mission**: To be the catalyst for the establishment of a democratic world government.
-**Vision**: To spearhead a future where a democratic world government effectively manages existential risks and harnesses technological advancements for global prosperity.
+**Mission**: The establishment of a democratic world government.
+
+**Vision**: To spearhead a future where a democratic world government effectively manages existential risks and harnesses technological advancements for the benefit of all.
 
 ## Values and Guiding Principles
 1. **Unity and Global Collaboration**: Champion unity, cooperation, and collective purpose on a global scale.
@@ -38,17 +39,17 @@ As the world experiences an accelerating pace of technological progress and the 
    - Reach a membership of 1,000,000,000 by the end of 2028.
    - Establish active chapters in 95% of UN member states by 2028.
 
-3. **Financial Stability**
-   - Achieve financial independence through diverse revenue streams, including membership fees, donations, and grants.
-   - Champion financial transparency and efficient resource allocation.
-
-4. **Influence and Leadership**
+3. **Influence and Leadership**
    - Ascend to a globally recognized leadership role in international forums.
    - Establish the World Democrats as a trusted voice in discussions of existential risks and technological change.
 
-5. **Collaboration and Partnerships**
+4. **Collaboration and Partnerships**
    - Engage in meaningful collaborations with other organizations, institutions, and governments that align with our mission.
    - Advance our cause of establishing a democratic world government through joint initiatives and influence on international agreements.
+
+5. **Financial Stability**
+   - Achieve financial independence through diverse revenue streams, including membership fees, donations, and grants.
+   - Champion financial transparency and efficient resource allocation.
 
 ## Key Performance Indicators
 To gauge our progress in reaching these strategic objectives, we will track the following Key Performance Indicators (KPIs):
@@ -61,26 +62,26 @@ To gauge our progress in reaching these strategic objectives, we will track the 
    - Overall membership numbers, aiming to reach 1,000,000,000 by the end of 2028.
    - Number of national chapters established, aiming for chapters in 95% of UN member states by 2028.
 
-3. **Financial Stability**
-   - Total revenue generated annually.
-   - Number of revenue streams diversified.
-   - Transparency and efficiency in financial allocation.
-
-4. **Influence and Leadership**
+3. **Influence and Leadership**
    - Number of leadership positions held in international forums.
    - Recognition or awards received by the organization on a global scale.
 
-5. **Collaboration and Partnerships**
+4. **Collaboration and Partnerships**
    - Number of collaborations and partnerships established.
    - Number of joint initiatives and influence on international agreements.
+
+5. **Financial Stability**
+   - Total revenue generated annually.
+   - Number of revenue streams diversified.
+   - Transparency and efficiency in financial allocation.
 
 ## Implementation Plan
 To achieve each strategic objective, we will embark on the following initial initiatives:
    - **Promotion and Advocacy**: Launch a worldwide campaign for a democratic world government in the first quarter of 2024.
    - **Membership Expansion**: Develop and execute a comprehensive recruitment strategy, focusing on key regions with high potential for membership growth.
-   - **Financial Stability**: Explore partnerships with philanthropic entities and initiate a fundraising campaign to diversify our revenue streams.
    - **Influence and Leadership**: Actively participate in international forums and pursue strategic relationships with influential figures and organizations.
    - **Collaboration and Partnerships**: Identify and reach out to potential partners with shared values and interests, both at the governmental and non-governmental level.
+   - **Financial Stability**: Explore partnerships with philanthropic entities and initiate a fundraising campaign to diversify our revenue streams.
 
 ## Challenges and Risk Management
 We anticipate various challenges and risks in our path towards a democratic world government, including political resistance, public skepticism, and resource constraints. To manage these, we will:
