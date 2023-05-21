@@ -4,10 +4,15 @@ Welcome to the main repository of the World Democrats! Our community was born ou
 
 ## Our Current Focus
 
-Currently, we're channeling our efforts into two primary activities:
+In line with our strategic objectives, our current efforts concentrate on the following key areas:
 
-- **Community building:** We actively partner with organizations and networks that share our vision, and foster a diverse, global community through our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
-- **Education:** We are running an [academy](https://github.com/worlddemocrats/academy) to provide high-quality political education that is freely available to all.
+- **Membership Expansion:** We're striving to build an expansive, global community that shares our vision. We're actively engaging with like-minded organizations and networks, while also fostering participation through our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
+
+- **Influence and Leadership:** We're enhancing our visibility and influence in international forums, striving to be a trusted voice in existential risks and technological changes discussions. In addition, we have established the [World Academy of Politics](https://github.com/worlddemocrats/academy), where we offer high-quality political education that is freely available to all.
+
+- **Collaboration and Partnerships:** Recognizing the power of unity, we're forging meaningful collaborations with other organizations, institutions, and governments. These collaborations are aimed at advancing our cause of establishing a democratic world government.
+
+- **Financial Stability:** To maintain our capacity to drive our mission forward, we're actively working on diversifying our revenue streams. This includes seeking partnerships and sponsorships that align with our mission and values.
 
 ## Repository Content
 
