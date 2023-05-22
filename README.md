@@ -1,6 +1,6 @@
 # World Democrats
 
-Our community was born out of the recognition that a new governance model is urgently needed to solve the world's most critical issues. Since then, we have been laying the foundations of a democratic world government that can effectively manage existential risks and harness technological advancements for the benefit of all.
+Our community was born out of the recognition that a new model of governance is urgently needed to solve the world's most critical issues. Since then, we have been laying the foundations of a democratic world government that can effectively manage existential risks and harness technological advancements for the benefit of all.
 
 ## Our Current Focus
 
