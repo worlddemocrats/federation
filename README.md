@@ -6,9 +6,9 @@ Our community was born out of the recognition that a new governance model is urg
 
 Our current efforts concentrate on the following key areas:
 
-- **Membership Expansion:** We are determined to build a diverse, global community that shares our vision. We're actively engaging with like-minded organizations and networks, while also fostering participation through our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
+- **Membership Expansion:** We are determined to build a diverse, global community that shares our vision. We're actively engaging with like-minded organizations and networks, while also fostering participation on our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
 
-- **Influence and Leadership:** Our aim is to be a prominent and trusted voice in discussions regarding global governance, existential risks, and technological changes. To this end, we've set up the [World Academy of Politics](https://github.com/worlddemocrats/academy), offering high-quality political education to future leaders.
+- **Influence and Leadership:** Our aim is to be a prominent and trusted voice in discussions regarding global governance, existential risks, and technological changes. To this end, we've set up the [World Academy of Politics](https://github.com/worlddemocrats/academy), offering free, high-quality online education to the leaders of the future.
 
 - **Collaboration and Partnerships:**  Understanding the strength in unity, we're pursuing partnerships with various organizations, institutions, and governments. Our goal is to work together to further the cause of a democratic world government.
 
