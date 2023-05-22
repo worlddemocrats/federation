@@ -6,10 +6,10 @@ Our community was born out of the recognition that a new model of governance is 
 
 Our current efforts concentrate on the following key areas:
 
-- **Membership Expansion:** We're developing a comprehensive recruitment strategy to grow our diverse, global community.
-- **Influence and Leadership:** We're actively participating in international forums and establishing strategic relationships to become a leading voice on global issues.
-- **Collaboration and Partnerships:** We're identifying and reaching out to potential partners at all levels to unify efforts for a democratic world government.
-- **Financial Stability:** We're seeking partnerships with philanthropies and initiating a fundraising campaign to diversify and stabilize our funding.
+- **Membership Expansion:** We're developing a comprehensive recruitment strategy to grow a diverse, global community.
+- **Influence and Leadership:** We are establishing the World Academy of Politics, offering educational programs for future leaders.
+- **Collaboration and Partnerships:** We're reaching out to potential partners at all levels to unify efforts for a democratic world government.
+- **Financial Stability:** We're seeking partnerships with philanthropic entities and initiating a fundraising campaign to diversify and stabilize our revenue streams.
 
 ## Repository Content
 
