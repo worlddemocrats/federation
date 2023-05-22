@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
-2. [Mission and Vision](#mission-and-vision)
+2. [Vision and Mission](#vision-and-mission)
 3. [Values and Guiding Principles](#values-and-guiding-principles)
 4. [Strategic Objectives](#strategic-objectives)
 5. [Key Performance Indicators](#key-performance-indicators)
@@ -13,10 +13,10 @@
 ## Executive Summary
 Our community was born out of the recognition that a new model of governance is urgently needed to solve the world's most critical issues. Since then, we have been laying the foundations of a democratic world government that can effectively manage existential risks and harness technological advancements for the benefit of all. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
 
-## Mission and Vision
-**Mission**: To establish a democratic world government.
-
+## Vision and Mission
 **Vision**: A future where a democratic world government effectively manages existential risks and harnesses technological advancements for the benefit of all.
+
+**Mission**: To establish a democratic world government.
 
 ## Values and Guiding Principles
 1. **Unity and Global Collaboration**: Champion unity, cooperation, and collective purpose on a global scale.
@@ -26,41 +26,38 @@ Our community was born out of the recognition that a new model of governance is 
 5. **Openness, Transparency, and Accountability**: Establish a benchmark for organizational transparency, honesty, and accountability.
 
 ## Strategic Objectives
-
 1. **Promotion and Advocacy**
-   - Spearhead campaigns for the establishment of a democratic world government.
-   - Champion transformative policies that manage existential risks and harness technological advancements for the welfare of all.
+   - Spearhead 15 global campaigns by the end of 2025 for the establishment of a democratic world government.
+   - Champion transformative policies on 3 critical global issues annually.
 
 2. **Membership Expansion**
    - Reach a membership of 1,000,000,000 by the end of 2028.
    - Establish active chapters in 95% of UN member states by 2028.
 
 3. **Influence and Leadership**
-   - Ascend to a globally recognized leadership role in international forums.
-   - Establish the World Democrats as a trusted voice in discussions of existential risks and technological change.
+   - Attain leadership roles in at least 5 major international forums by 2026.
+   - Establish the World Democrats as a trusted voice, receiving at least 3 global recognitions or awards by 2027.
 
 4. **Collaboration and Partnerships**
-   - Engage in meaningful collaborations with other organizations, institutions, and governments that align with our mission.
-   - Advance our cause of establishing a democratic world government through joint initiatives and influence on international agreements.
+   - Engage in 10 new meaningful collaborations by 2025 with organizations, institutions, and governments that align with our mission.
+   - Influence 5 international agreements through our joint initiatives by 2026.
 
 5. **Financial Stability**
-   - Achieve financial independence through diverse revenue streams, including membership fees, donations, and grants.
-   - Champion financial transparency and efficient resource allocation.
+   - Achieve financial independence through diverse revenue streams, including membership fees, donations, and grants by 2027.
+   - Maintain a transparency index of 90% and above.
 
 ## Key Performance Indicators
-To gauge our progress in reaching these strategic objectives, we will track the following Key Performance Indicators (KPIs):
-
 1. **Promotion and Advocacy**
    - Number of global campaigns initiated.
    - Percentage increase in global awareness and support for a democratic world government (measured through surveys).
 
 2. **Membership Expansion**
-   - Overall membership numbers, aiming to reach 1,000,000,000 by the end of 2028.
-   - Number of national chapters established, aiming for chapters in 95% of UN member states by 2028.
+   - Overall membership numbers.
+   - Number of national chapters established.
 
 3. **Influence and Leadership**
    - Number of leadership positions held in international forums.
-   - Recognition or awards received by the organization on a global scale.
+   - Number of recognitions or awards received by the organization on a global scale.
 
 4. **Collaboration and Partnerships**
    - Number of collaborations and partnerships established.
@@ -69,20 +66,19 @@ To gauge our progress in reaching these strategic objectives, we will track the 
 5. **Financial Stability**
    - Total revenue generated annually.
    - Number of revenue streams diversified.
-   - Transparency and efficiency in financial allocation.
 
 ## Implementation Plan
-To achieve each strategic objective, we will embark on the following initial initiatives:
+We will execute the following initial initiatives to achieve each strategic objective:
    - **Promotion and Advocacy**: Launch a worldwide campaign for a democratic world government in the first quarter of 2024.
-   - **Membership Expansion**: Develop and execute a comprehensive recruitment strategy, focusing on key regions with high potential for membership growth.
-   - **Influence and Leadership**: Actively participate in international forums and pursue strategic relationships with influential figures and organizations.
-   - **Collaboration and Partnerships**: Identify and reach out to potential partners with shared values and interests, both at the governmental and non-governmental level.
-   - **Financial Stability**: Explore partnerships with philanthropic entities and initiate a fundraising campaign to diversify our revenue streams.
+   - **Membership Expansion**: Develop and execute a comprehensive recruitment strategy, focusing on key regions with high potential for membership growth, by the third quarter of 2023.
+   - **Influence and Leadership**: Actively participate in international forums and establish strategic relationships with influential figures and organizations, starting in the second quarter of 2023.
+   - **Collaboration and Partnerships**: Identify and reach out to potential partners with shared values and interests, both at the governmental and non-governmental level, starting in the second quarter of 2023.
+   - **Financial Stability**: Explore partnerships with philanthropic entities and initiate a fundraising campaign to diversify our revenue streams by the end of 2023.
 
 ## Challenges and Risk Management
 We anticipate various challenges and risks in our path towards a democratic world government, including political resistance, public skepticism, and resource constraints. To manage these, we will:
    - Conduct regular political and public sentiment analyses to identify potential resistance and formulate effective responses.
-   - Implement a robust risk management framework to anticipate, evaluate, and mitigate risks in a timely manner.
+   - Create a robust risk management framework to anticipate, evaluate, and mitigate risks, to be implemented by the end of 2023.
    - Prioritize efficient resource allocation and seek to diversify our funding sources to ensure financial stability.
 
 ## Review and Update Process
