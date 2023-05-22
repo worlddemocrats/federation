@@ -18,7 +18,7 @@ The World Democrats, envisioned as a forerunner in developing a new governance m
 As the world experiences an accelerating pace of technological progress and the looming shadow of existential risks, the call for a governance model that promotes equality, dignity, and justice for all becomes increasingly resonant. It is in this space that the World Democrats aspires to create a democratic world government.
 
 ## Mission and Vision
-**Mission**: The establishment of a democratic world government.
+**Mission**: To establish a democratic world government.
 
 **Vision**: A future where a democratic world government effectively manages existential risks and harnesses technological advancements for the benefit of all.
 
