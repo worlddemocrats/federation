@@ -1,18 +1,15 @@
 # World Democrats
 
-Our community was born out of the recognition that a new governance model is urgently needed to solve the world's most critical issues. Since then, we have been laying the groundwork for a democratic world government that can effectively manage existential risks and harness technological advancements for the benefit of all.
+Our community was born out of the recognition that a new governance model is urgently needed to solve the world's most critical issues. Since then, we have been laying the foundations of a democratic world government that can effectively manage existential risks and harness technological advancements for the benefit of all.
 
 ## Our Current Focus
 
 Our current efforts concentrate on the following key areas:
 
-- **Membership Expansion:** We are determined to build a diverse, global community that shares our vision. We're actively engaging with like-minded organizations and networks, while also fostering participation on our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats).
-
-- **Influence and Leadership:** Our aim is to be a prominent and trusted voice in discussions regarding global governance, existential risks, and technological changes. To this end, we've set up the [World Academy of Politics](https://github.com/worlddemocrats/academy), offering free, high-quality online education to the leaders of the future.
-
-- **Collaboration and Partnerships:**  Understanding the strength in unity, we're pursuing partnerships with various organizations, institutions, and governments. Our goal is to work together to further the cause of a democratic world government.
-
-- **Financial Stability:** To maintain our capacity to drive our mission forward, we're actively working on diversifying our revenue streams. This includes seeking partnerships and sponsorships that align with our mission and values.
+- **Membership Expansion:** We're developing a comprehensive recruitment strategy to grow our diverse, global community.
+- **Influence and Leadership:** We're actively participating in international forums and establishing strategic relationships to become a leading voice on global issues.
+- **Collaboration and Partnerships:** We're identifying and reaching out to potential partners at all levels to unify efforts for a democratic world government.
+- **Financial Stability:** We're seeking partnerships with philanthropies and initiating a fundraising campaign to diversify and stabilize our funding.
 
 ## Repository Content
 
