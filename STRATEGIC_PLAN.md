@@ -12,7 +12,7 @@
 9. [Review and Update Process](#review-and-update-process)
 
 ## Executive Summary
-The World Democrats, envisioned as a forerunner in developing a new governance model to solve the world's most critical issues, is focused on the goal of establishing a democratic world government. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
+The World Democrats, envisioned as a forerunner in developing a new governance model to solve the world's most critical issues, is focused on establishing a democratic world government. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
 
 ## Context and Environment
 As the world experiences an accelerating pace of technological progress and the looming shadow of existential risks, the call for a governance model that promotes equality, dignity, and justice for all becomes increasingly resonant. It is in this space that the World Democrats aspires to create a democratic world government.
@@ -20,7 +20,7 @@ As the world experiences an accelerating pace of technological progress and the 
 ## Mission and Vision
 **Mission**: The establishment of a democratic world government.
 
-**Vision**: To spearhead a future where a democratic world government effectively manages existential risks and harnesses technological advancements for the benefit of all.
+**Vision**: A future where a democratic world government effectively manages existential risks and harnesses technological advancements for the benefit of all.
 
 ## Values and Guiding Principles
 1. **Unity and Global Collaboration**: Champion unity, cooperation, and collective purpose on a global scale.
