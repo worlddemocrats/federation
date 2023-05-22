@@ -27,7 +27,7 @@ We welcome and value the diverse perspectives, skills, and experiences that indi
 - **Join discussions:** Engage with our community on our [Discord server](https://discord.gg/KhuwtTPnXa), or in our [Facebook group](https://www.facebook.com/groups/worlddemocrats).
 - **Spread the word:** Follow us on [Facebook](https://facebook.com/worlddemocratsorg) and [Twitter](https://twitter.com/world_democrats) and share our mission with your network.
 - **Improve our documents:** Our [Contribution Guide](CONTRIBUTING.md) provides more information.
-- **Support our cause:** Your financial support is crucial to our work. You can [donate here](link-to-your-donation-page).
+<!-- - **Support our cause:** Your financial support is crucial to our work. You can [donate here](link-to-your-donation-page). -->
 
 ## Code of Conduct
 
