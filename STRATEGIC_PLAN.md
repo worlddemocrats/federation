@@ -107,7 +107,7 @@ To achieve our strategic objectives, we will embark on the following initiatives
 - **Influence and Leadership**: 
   - Actively participate in international forums and establish strategic relationships with influential figures and organizations, starting in the second quarter of 2024.
   - Launch a series of events, such as conferences and webinars, to establish ourselves as thought leaders in the domain of global governance, with the first event to be held in the fourth quarter of 2023.
-  - Establish the World Academy of Politics by the second quarter of 2023, offering educational programs to train future leaders and raise awareness about global governance and democratic values.
+  - Establish the World Academy of Politics in the second quarter of 2023, offering educational programs to train future leaders and raise awareness about global governance and democratic values.
 
 - **Collaboration and Partnerships**: 
   - Identify and reach out to potential partners with shared values and interests, both at the governmental and non-governmental level, starting in the third quarter of 2023.
