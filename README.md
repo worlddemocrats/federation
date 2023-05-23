@@ -2,12 +2,14 @@
 
 Welcome to the organization's core repository! Our community was born out of the recognition that a new model of governance is urgently needed to solve the world's most critical challenges. Since then, we have been laying the foundations of a democratic world government that can effectively manage existential risks and harness technological advancements for the benefit of all.
 
+*Please note that the documents in this repository are works in progress. They are capturing a snapshot of our current thinking and will continue to evolve to incorporate the collective wisdom and insights of our community. This is a collaborative journey, and we invite and deeply value your input and your constructive criticism.*
+
 ## Our Current Focus
 
 We are currently focusing on the following key areas:
 
 - **Membership Expansion:** We're developing a comprehensive recruitment strategy to grow a diverse, global community.
-- **Influence and Leadership:** We are establishing the World Academy of Politics, offering educational programs for future leaders.
+- **Influence and Leadership:** We are establishing the [World Academy of Politics](https://github.com/worlddemocrats/academy), offering educational programs for future leaders.
 - **Collaboration and Partnerships:** We're reaching out to potential partners to unify efforts for a democratic world government.
 - **Financial Stability:** We're seeking partnerships with philanthropic entities and initiating a fundraising campaign to diversify and stabilize our revenue streams.
 
