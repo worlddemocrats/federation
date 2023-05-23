@@ -1,5 +1,7 @@
 # Strategic Plan of the World Democrats
 
+*Please note that the documents in this repository are works in progress. They are capturing a snapshot of our current thinking and will continue to evolve to incorporate the collective wisdom and insights of our community. This is a collaborative journey, and we invite and deeply value your input and your constructive criticism.*
+
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
 2. [Vision and Mission](#vision-and-mission)
