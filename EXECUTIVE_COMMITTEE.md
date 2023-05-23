@@ -1,6 +1,6 @@
 # Executive Committee of the World Democrats
 
-*Please note that the documents in this repository are works in progress. They are capturing a snapshot of our current thinking and will continue to evolve to incorporate the collective wisdom and insights of our community. This is a collaborative journey, and we invite and deeply value your input and your constructive criticism.*
+*Please note that the documents in this repository are works in progress, capturing a snapshot of our current thinking and will continue to evolve to incorporate the collective wisdom and insights of our community. This is a collaborative journey, and we invite and highly value your input and your constructive criticism.*
 
 ## Executive Committee
 1. **Chairperson of the Executive Committee**: Provides strategic leadership and direction for the organization.
