@@ -1,6 +1,6 @@
 # Foundamental Documents of the World Democrats
 
-Welcome to the organization's core repository! Our community was born out of the recognition that a new model of governance is urgently needed to solve the world's most critical challenges. Since then, we have been laying the foundations of a democratic world government that can effectively manage existential risks and harness technological advancements for the benefit of all.
+Welcome to the organization's core repository! Our community was born out of the recognition that a new model of governance is urgently needed to solve the world's most critical challenges. Since then, we have been laying the foundations for a democratic world government that can effectively manage existential risks and harness technological advancements for the benefit of all.
 
 *Please note that the documents in this repository are works in progress, capturing a snapshot of our current thinking and will continue to evolve to incorporate the collective wisdom and insights of our community. This is a collaborative journey, and we invite and highly value your input and your constructive criticism.*
 
