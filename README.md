@@ -1,4 +1,4 @@
-# World Democrats: Core Documents & Resources
+# Foundamental Documents of the World Democrats
 
 Welcome to the organization's core repository! Our community was born out of the recognition that a new model of governance is urgently needed to solve the world's most critical challenges. Since then, we have been laying the foundations of a democratic world government that can effectively manage existential risks and harness technological advancements for the benefit of all.
 
@@ -36,8 +36,8 @@ We are committed to fostering an inclusive, respectful, and supportive environme
 
 ## Contact
 
-If you have any questions, concerns, or suggestions, we welcome you to reach out to us at info@worlddemocrats.org. Our team, including our Founder [Blaise Konya](mailto:blaise.konya@worlddemocrats.org) is here to help and listen.
+If you have any questions, concerns, or suggestions, we welcome you to reach out to us at info@worlddemocrats.org. Our team, including our Founder, [Blaise Konya](mailto:blaise.konya@worlddemocrats.org), is here to help and listen.
 
 ## License
 
-This project is licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/federation/blob/main/LICENSE). It allows anyone to use, adapt, and share our resources without restrictions, including for commercial purposes. We believe in the power of shared knowledge and open collaboration.
+This project is licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/federation/blob/main/LICENSE). It allows anyone to use, adapt, and share our documents without restrictions, including for commercial purposes. We believe in the power of shared knowledge and open collaboration.
