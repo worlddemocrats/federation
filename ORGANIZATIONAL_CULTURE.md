@@ -35,3 +35,4 @@
 - Promote active listening and inclusive dialogue, valuing all voices
 - Ensure equitable representation and collaboration in conflict resolution
 - Endeavor to reach solutions beneficial to all
+- Where necessary, engage a neutral third-party mediator to facilitate resolution
