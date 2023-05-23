@@ -1,5 +1,7 @@
 # Organizational Culture
 
+*Please note that the documents in this repository are works in progress. They are capturing a snapshot of our current thinking and will continue to evolve to incorporate the collective wisdom and insights of our community. This is a collaborative journey, and we invite and deeply value your input and your constructive criticism.*
+
 ## Core Values
 
 **Unity and Global Collaboration:** We advocate unity, cooperation, and shared purpose, not only within our organization but also with global partners and supporters.
