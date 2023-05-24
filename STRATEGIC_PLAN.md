@@ -23,24 +23,21 @@ Our community was born out of the recognition that to effectively manage existen
 **Mission**: Our mission is to establish a democratic world government.
 
 ## Core Values
-- **Focus on Impact and Global Relevance**: Address the most critical global issues, with initiatives generating substantial worldwide benefits.
-- **Inclusivity and Participatory Democracy**: Create a platform for diverse voices and inclusive decision-making.
-- **Innovation and Adaptability**: Leverage leading-edge technologies, novel methods, and groundbreaking ideas.
-- **Openness, Transparency, and Accountability**: Establish a benchmark for organizational transparency, honesty, and accountability.
-- **Unity and Global Collaboration**: Champion unity, cooperation, and collective purpose on a global scale.
+- **Focus on Impact and Global Relevance**: We address the most critical global issues, with initiatives generating substantial worldwide benefits.
+- **Inclusivity and Participatory Democracy**: We create a platform for diverse voices and inclusive decision-making.
+- **Innovation and Adaptability**: We leverage leading-edge technologies, novel methods, and groundbreaking ideas.
+- **Openness, Transparency, and Accountability**: We establish a benchmark for organizational transparency, honesty, and accountability.
+- **Unity and Global Collaboration**: We champion unity, cooperation, and collective purpose on a global scale.
 
 ## Market Landscape and Competitors
-Our landscape comprises organizations focused on international cooperation, democratic governance, and global risk management. These include global institutions such as the United Nations, NGOs like the One World Trust and the World Federalist Movement, as well as think tanks and policy forums.
+
+Our landscape comprises organizations focused on international cooperation, democratic governance, and existential risk management. These include global institutions such as the United Nations, NGOs like the World Federalist Movement, as well as think tanks like the Future of Humanity Institute.
 
 We differentiate ourselves in this space through several unique strategies:
 
 - **Grassroots Mobilization**: While much of the work on global governance is conducted at the policy level, we engage the general public. We aim to foster a culture of global citizenship, solidarity, and grassroots support for the cause, distinguishing us as a people-centered organization.
-
-- **Holistic Approach**: Unlike many organizations that focus on specific aspects of global governance or democracy promotion, we adopt a comprehensive approach. We address the need for a democratic world government and its potential benefits across various domains, positioning us as an innovative and all-encompassing player in the space.
-
+- **Holistic Approach**: Unlike many organizations that focus on specific aspects of global governance and democracy promotion, we adopt a comprehensive approach. We address the need for a democratic world government across various domains, positioning us as an all-encompassing player in the space.
 - **Innovation and Adaptability**: We commit to embracing emerging trends, technologies, and approaches to enhance our impact and effectiveness. This forward-thinking mindset allows us to remain at the cutting-edge of the global governance landscape, separating us from more traditional institutions.
-
-- **Networking and Collaboration**: We aim to facilitate partnerships and foster dialogue and cooperation among diverse stakeholders. This positions us as a collaborative entity, working to bring coordination and unity to the fragmented field of global governance.
 
 ## Target Audience
 Our primary target audience includes individuals, institutions, and governments who share our vison and values.
