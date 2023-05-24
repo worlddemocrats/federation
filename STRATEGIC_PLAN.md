@@ -15,7 +15,7 @@
 10. [Review and Update Process](#review-and-update-process)
 
 ## Executive Summary
-We are united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. We are therefore laying the groundwork for a democratic world government that will harness technological progress for the benefit of all. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
+We are united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. We are therefore laying the groundwork for a democratic world government that will harness technological progress for the benefit of all. This strategic plan is a compass that guides us with ambitious yet achievable targets to accomplish this monumental goal.
 
 ## Vision and Mission
 **Vision**: We envision a future where a democratic world government effectively manages existential risks and harnesses technological advancements for the benefit of all.
@@ -31,13 +31,13 @@ We are united by the belief that globally enforceable regulations are the most e
 
 ## Market Landscape and Competitors
 
-Our landscape comprises organizations focused on international cooperation, democratic governance, and existential risk management. These include global institutions such as the United Nations, NGOs like the World Federalist Movement, as well as think tanks like the Future of Humanity Institute.
+Our landscape consists of organizations that focus on international cooperation, democratic governance, and existential risk management. These include intergovernmental organizations such as the United Nations, NGOs such as the World Federalist Movement, and think tanks such as the Future of Humanity Institute.
 
 We differentiate ourselves in this space through several unique strategies:
 
-- **Grassroots Mobilization**: While much of the work on global governance is conducted at the policy level, we engage the general public. We aim to foster a culture of global citizenship, solidarity, and grassroots support for the cause, distinguishing us as a people-centered organization.
-- **Holistic Approach**: Unlike many organizations that focus on specific aspects of global governance and democracy promotion, we adopt a comprehensive approach. We address the need for a democratic world government across various domains, positioning us as an all-encompassing player in the space.
-- **Innovation and Adaptability**: We commit to embracing emerging trends, technologies, and approaches to enhance our impact and effectiveness. This forward-thinking mindset allows us to remain at the cutting-edge of the global governance landscape, separating us from more traditional institutions.
+- **Grassroots Mobilization**: While much of the work on global governance takes place at the policy level, we engage the general public. We aim to foster a culture of global citizenship, solidarity, and grassroots support for the cause, which distinguishes us as a people-centered organization.
+- **Holistic Approach**: Unlike many organizations that focus on a specific area, such as global governance, democracy promotion, or existential risk mitigation, we take a comprehensive approach. We address the general need for democratic world governance and position ourselves as a holistic player in the field.
+- **Innovation and Adaptability**: We are committed to embracing emerging trends, technologies, and approaches to enhance our impact and effectiveness. This forward-thinking mindset allows us to remain at the cutting-edge of the global governance landscape and sets us apart from more traditional institutions.
 
 ## Target Audience
 
