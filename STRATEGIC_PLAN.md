@@ -5,7 +5,7 @@
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
 2. [Vision and Mission](#vision-and-mission)
-3. [Values and Guiding Principles](#values-and-guiding-principles)
+3. [Core Values](#core-values)
 4. [Market Landscape and Competitors](#market-landscape-and-competitors)
 5. [Target Audience](#target-audience)
 6. [Strategic Objectives](#strategic-objectives)
@@ -15,19 +15,19 @@
 10. [Review and Update Process](#review-and-update-process)
 
 ## Executive Summary
-Our community was born out of the recognition that the effective management of existential risks requires globally enforced regulations, and a democratically elected world government could best serve as a legitimate body for this task. Since then, we have been laying the foundations for such government to harness technological advancements for the benefit of all. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
+Our community was born out of the recognition that the effective management of existential risks requires globally enforced regulations, and that a future superintelligence should not be controlled by a small group of people. Since then, we have been laying the foundations for a democratic world government to harness technological progress for the benefit of all. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
 
 ## Vision and Mission
 **Vision**: We envision a future where a democratic world government effectively manages existential risks and harnesses technological advancements for the benefit of all.
 
 **Mission**: Our mission is to establish a democratic world government.
 
-## Values and Guiding Principles
-1. **Unity and Global Collaboration**: Champion unity, cooperation, and collective purpose on a global scale.
-2. **Focus on Impact and Global Relevance**: Address the most critical global issues, with initiatives generating substantial worldwide benefits.
-3. **Inclusivity and Participatory Democracy**: Create a platform for diverse voices and inclusive decision-making.
-4. **Innovation and Adaptability**: Leverage leading-edge technologies, novel methods, and groundbreaking ideas.
-5. **Openness, Transparency, and Accountability**: Establish a benchmark for organizational transparency, honesty, and accountability.
+## Core Values
+- **Focus on Impact and Global Relevance**: Address the most critical global issues, with initiatives generating substantial worldwide benefits.
+- **Inclusivity and Participatory Democracy**: Create a platform for diverse voices and inclusive decision-making.
+- **Innovation and Adaptability**: Leverage leading-edge technologies, novel methods, and groundbreaking ideas.
+- **Openness, Transparency, and Accountability**: Establish a benchmark for organizational transparency, honesty, and accountability.
+- **Unity and Global Collaboration**: Champion unity, cooperation, and collective purpose on a global scale.
 
 ## Market Landscape and Competitors
 Our landscape comprises organizations focused on international cooperation, democratic governance, and global risk management. These include global institutions such as the United Nations, NGOs like the One World Trust and the World Federalist Movement, as well as think tanks and policy forums.
