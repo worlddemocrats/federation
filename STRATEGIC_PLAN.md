@@ -65,7 +65,7 @@ Our secondary audience includes the general public and media organizations. Our 
    - Initiate at least 3 global campaigns annually for the establishment of a democratic world government.
    - Champion transformative policies on at least one critical global issue per quarter.
 2. **Membership Expansion**
-   - Reach a membership of 1,000,000,000 by the end of 2028.
+   - Reach a membership of 100,000,000 by the end of 2028.
    - Establish active chapters in 50% of UN member states by 2025 and 95% by 2028.
 3. **Influence and Leadership**
    - Secure at least one leadership role in a major international forum annually.
