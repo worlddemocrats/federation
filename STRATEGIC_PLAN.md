@@ -15,7 +15,7 @@
 10. [Review and Update Process](#review-and-update-process)
 
 ## Executive Summary
-Our community was born out of the recognition that to effectively manage existential risks, we urgently need globally enforceable regulations, and that the development of superintelligence should be governed by humanity as a whole. Since then, we have been laying the foundations for a democratic world government to harness technological progress for the benefit of all. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
+We are united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. We are therefore laying the groundwork for a democratic world government to harness technological progress for the benefit of all. This strategic plan is a compass, providing us with ambitious yet achievable targets designed to fulfill this monumental objective.
 
 ## Vision and Mission
 **Vision**: We envision a future where a democratic world government effectively manages existential risks and harnesses technological advancements for the benefit of all.
