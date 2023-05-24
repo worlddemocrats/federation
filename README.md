@@ -1,4 +1,4 @@
-# Fundamental Documents of the World Democrats
+# Organizational Framework of the World Democrats
 
 Welcome to our central repository! We are united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. We are therefore laying the groundwork for a democratic world government to harness technological progress for the benefit of all.
 
