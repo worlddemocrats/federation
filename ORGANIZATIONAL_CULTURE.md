@@ -10,7 +10,7 @@
 
 - **Innovation and Adaptability:** We foster a culture of innovation and adaptability, and staying responsive to political shifts, societal changes, and emerging global challenges. We embrace cutting-edge technologies, methods, and ideas.
 
-- **Openness, Transparency, and Accountability:** We operate with unwavering commitment to openness, transparency, and accountability, ensuring that our actions and policies are guided by the best interests of our members and the global community we serve.
+- **Openness, Transparency, and Accountability:** We operate with an unwavering commitment to openness, transparency, and accountability, ensuring that our actions and policies are guided by the best interests of our members and the global community we serve.
 
 - **Unity and Global Collaboration:** We advocate unity, cooperation, and shared purpose, not only within our organization but also with global partners and supporters.
 
