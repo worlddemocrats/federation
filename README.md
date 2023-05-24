@@ -1,8 +1,10 @@
 # Fundamental Documents of the World Democrats
 
-Welcome to our core repository! Our community was born out of the recognition that to effectively manage existential risks, we urgently need globally enforceable regulations, and that the development of superintelligence should be governed by humanity as a whole. Since then, we have been laying the foundations for a democratic world government to harness technological progress for the benefit of all.
+Welcome to our central repository! We are united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. We are therefore laying the groundwork for a democratic world government to harness technological progress for the benefit of all.
 
 *Please note that the documents in this repository are works in progress, capturing a snapshot of our current thinking and will continue to evolve to incorporate the collective wisdom of our community. This is a collaborative journey, and we invite and highly value your input and your constructive criticism.*
+
+to effectively manage existential risks
 
 ## Our Current Focus
 
@@ -36,7 +38,7 @@ We are committed to fostering an inclusive, respectful, and supportive environme
 
 ## Contact
 
-If you have any questions, concerns, or suggestions, we welcome you to reach out to us at info@worlddemocrats.org. Our team, including our Founder, [Blaise Konya](mailto:blaise.konya@worlddemocrats.org), is here to help and listen.
+If you have any questions, concerns, or suggestions, we welcome you to reach out to us at info@worlddemocrats.org. Our team, including our founder, [Blaise Konya](mailto:blaise.konya@worlddemocrats.org), is here to help and listen.
 
 ## License
 
