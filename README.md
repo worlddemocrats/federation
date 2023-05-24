@@ -1,6 +1,6 @@
 # Fundamental Documents of the World Democrats
 
-Welcome to the core repository of the Federation! Our community was born out of the recognition that to effectively manage existential risks, we urgently need globally enforceable regulations, and that a future superintelligence should not be controlled by a small group of people. Since then, we have been laying the foundations for a democratic world government to harness technological progress for the benefit of all.
+Welcome to the core repository of the Federation! Our community was born out of the recognition that to effectively manage existential risks, we urgently need globally enforceable regulations, and that the development of superintelligence should not be controlled by a small group of people. Since then, we have been laying the foundations for a democratic world government to harness technological progress for the benefit of all.
 
 *Please note that the documents in this repository are works in progress, capturing a snapshot of our current thinking and will continue to evolve to incorporate the collective wisdom and insights of our community. This is a collaborative journey, and we invite and highly value your input and your constructive criticism.*
 
