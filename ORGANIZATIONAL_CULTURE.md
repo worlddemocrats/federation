@@ -4,15 +4,15 @@
 
 ## Core Values
 
-**Unity and Global Collaboration:** We advocate unity, cooperation, and shared purpose, not only within our organization but also with global partners and supporters.
+- **Focus on Impact and Global Relevance:** Our endeavors focus on addressing the pressing challenges and existential risks of our times. We prioritize initiatives that have substantial global benefits.
 
-**Focus on Impact and Global Relevance:** Our endeavors focus on addressing the pressing challenges and existential risks of our times. We prioritize initiatives that have substantial global benefits.
+- **Inclusivity and Participatory Democracy:** We champion diversity and inclusivity, striving for equitable representation of various social, cultural, and geographical backgrounds within our organizational structure and decision-making processes.
 
-**Inclusivity and Participatory Democracy:** We champion diversity and inclusivity, striving for equitable representation of various social, cultural, and geographical backgrounds within our organizational structure and decision-making processes.
+- **Innovation and Adaptability:** We foster a culture of innovation and adaptability, and staying responsive to political shifts, societal changes, and emerging global challenges. We embrace cutting-edge technologies, methods, and ideas.
 
-**Innovation and Adaptability:** We foster a culture of innovation and adaptability, and staying responsive to political shifts, societal changes, and emerging global challenges. We embrace cutting-edge technologies, methods, and ideas.
+- **Openness, Transparency, and Accountability:** We operate with unwavering commitment to openness, transparency, and accountability, ensuring that our actions and policies are guided by the best interests of our members and the global community we serve.
 
-**Openness, Transparency, and Accountability:** We operate with unwavering commitment to openness, transparency, and accountability, ensuring that our actions and policies are guided by the best interests of our members and the global community we serve.
+- **Unity and Global Collaboration:** We advocate unity, cooperation, and shared purpose, not only within our organization but also with global partners and supporters.
 
 ## Communication Guidelines
 
