@@ -1,5 +1,5 @@
 # Organizational Framework
-Welcome to the World Democrats' central repository! Our community is united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. We are therefore laying the groundwork for a democratic world government that will harness technological progress for the benefit of all. Here you can find all the documents that make up the blueprint of our organization.
+Welcome to the World Democrats' central repository! We are united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. We are therefore laying the groundwork for a democratic world government that will harness technological progress for the benefit of all. Here you can find all the documents that make up the blueprint of our organization.
 
 *Please note that the documents in this repository are works in progress, capturing a snapshot of our current thinking and will continue to evolve to incorporate the collective wisdom of our community. This is a collaborative journey, and we invite and highly value your input and your constructive criticism.*
 
