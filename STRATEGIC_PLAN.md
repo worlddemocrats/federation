@@ -23,11 +23,11 @@ We are united by the belief that globally enforceable regulations are the most e
 **Mission**: Our mission is to establish a democratic world government.
 
 ## Core Values
-- **Focus on Impact and Global Relevance**: We address the most critical global issues, with initiatives generating substantial worldwide benefits.
+- **Focus on Impact and Global Relevance**: We address the world's most critical issues, with initiatives that generate significant global benefits.
 - **Inclusivity and Participatory Democracy**: We create a platform for diverse voices and inclusive decision-making.
-- **Innovation and Adaptability**: We leverage leading-edge technologies, novel methods, and groundbreaking ideas.
+- **Innovation and Adaptability**: We leverage cutting-edge technologies, groundbreaking ideas, and novel methodologies.
 - **Openness, Transparency, and Accountability**: We operate with an unwavering commitment to openness, transparency, and accountability.
-- **Unity and Global Collaboration**: We champion unity, cooperation, and collective purpose on a global scale.
+- **Unity and Global Collaboration**: We promote unity, cooperation and common purpose on a global scale.
 
 ## Market Landscape and Competitors
 
