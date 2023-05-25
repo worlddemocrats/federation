@@ -18,7 +18,7 @@
 We are united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. We are therefore laying the groundwork for a democratic world government that will harness technological progress for the benefit of all. This strategic plan is a compass that guides us with ambitious yet achievable targets to accomplish this monumental goal.
 
 ## Vision and Mission
-**Vision**: We envision a future where a democratic world government effectively manages existential risks and harnesses technological advancements for the benefit of all.
+**Vision**: We envision a future where a democratic world government effectively manages existential risks and harnesses technological progress for the benefit of all.
 
 **Mission**: Our mission is to establish a democratic world government.
 
