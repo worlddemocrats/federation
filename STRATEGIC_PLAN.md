@@ -27,7 +27,7 @@ We are united by the belief that globally enforceable regulations are the most e
 - **Inclusivity and Participatory Democracy**: We create a platform for diverse voices and inclusive decision-making.
 - **Innovation and Adaptability**: We leverage cutting-edge technologies, groundbreaking ideas, and novel methodologies.
 - **Openness, Transparency, and Accountability**: We operate with an unwavering commitment to openness, transparency, and accountability.
-- **Unity and Global Collaboration**: We promote unity, cooperation and common purpose on a global scale.
+- **Unity and Global Collaboration**: We promote common purpose, cooperation, and unity on a global scale.
 
 ## Market Landscape and Competitors
 
@@ -35,11 +35,11 @@ Our landscape consists of organizations that focus on international cooperation,
 
 We differentiate ourselves in this space through several unique strategies:
 
-- **Grassroots Mobilization**: While much of the work on global governance takes place at the policy level, we engage the general public. We aim to foster a culture of global citizenship, solidarity, and grassroots support for the cause, which distinguishes us as a people-centered organization.
+- **Grassroots Mobilization**: While much of the work on global governance takes place at the policy level, we engage the general public. We aim to foster a culture of global citizenship, solidarity, and grassroots support for the cause.
 
-- **Holistic Approach**: Unlike many organizations that focus on a specific area, such as global governance, democracy promotion, or existential risk mitigation, we take a comprehensive approach. We address the general need for democratic world governance and position ourselves as a holistic player in the field.
+- **Holistic Approach**: Unlike many organizations that focus on a specific area, we take a comprehensive approach. We address the general need for democratic world governance and position ourselves as a holistic player in the field.
 
-- **Innovation and Adaptability**: We are committed to embracing emerging trends, technologies, and approaches to enhance our impact and effectiveness. This forward-thinking mindset allows us to remain at the cutting-edge of the global governance landscape and sets us apart from more traditional institutions.
+- **Innovation and Adaptability**: We are embracing emerging trends, technologies, and approaches to enhance our impact and effectiveness. This mindset allows us to remain at the cutting-edge of the global governance landscape and sets us apart from more traditional institutions.
 
 ## Target Audience
 
@@ -56,8 +56,8 @@ Our primary audiences are individuals, organizations and governments that share 
    - **Political Organizations**: Working with political organizations can help drive policy changes and increase our political influence.
    - **Tech Companies**: Partnering with technology companies can help us leverage the latest technologies for our initiatives.
 
-3. **Governments**: We aim to influence and partner with governments that believe in the value of global cooperation and democratic governance.
-   - **Democratic Governments**: We focus on engaging governments of democratic countries because they are more likely to be aligned with our mission.
+3. **Governments**: We seek to influence and partner with governments that believe in the value of global cooperation and democracy.
+   - **Democratic Governments**: Focusing on engaging governments of countries that are more likely to be aligned with our mission can help get our movement off the ground.
    - **International Bodies**: Working with international organizations such as the EU allows us to work on policy-level changes and gain broader geopolitical influence.
 
 Our secondary audience includes the general public and media organizations. Our goal is to raise public awareness of the importance of democratic global governance. Media organizations are key to achieving this, as they can amplify our message to a wider audience.
