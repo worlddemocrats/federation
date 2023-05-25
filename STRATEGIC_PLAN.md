@@ -36,29 +36,31 @@ Our landscape consists of organizations that focus on international cooperation,
 We differentiate ourselves in this space through several unique strategies:
 
 - **Grassroots Mobilization**: While much of the work on global governance takes place at the policy level, we engage the general public. We aim to foster a culture of global citizenship, solidarity, and grassroots support for the cause, which distinguishes us as a people-centered organization.
+
 - **Holistic Approach**: Unlike many organizations that focus on a specific area, such as global governance, democracy promotion, or existential risk mitigation, we take a comprehensive approach. We address the general need for democratic world governance and position ourselves as a holistic player in the field.
+
 - **Innovation and Adaptability**: We are committed to embracing emerging trends, technologies, and approaches to enhance our impact and effectiveness. This forward-thinking mindset allows us to remain at the cutting-edge of the global governance landscape and sets us apart from more traditional institutions.
 
 ## Target Audience
 
-Our primary target audience includes individuals, organizations, and governments who share our vision and values:
+Our primary audiences are individuals, organizations and governments that share our vision and values:
 
 1. **Individuals**: We aim to attract globally-minded, socially conscious individuals who are motivated to contribute to the establishment of a democratic world government. This includes:
-   - **Academics and Researchers**: Scholars in the fields of political science, international relations, and technology can contribute valuable research and ideas.
-   - **Influential Individuals**: Public figures, celebrities, and influential people can use their platforms to amplify our message and promote our mission.
-   - **Professionals in Relevant Fields**: Individuals working in areas such as international relations, technology, and policy-making can provide expertise and advocacy.
+   - **Academics and Researchers**: Scholars from a variety of fields, such as ethics, political science, and international relations, can contribute valuable research and ideas.
+   - **Influential Individuals**: Public figures, celebrities, and influencers can use their platforms to amplify our message and further our mission.
+   - **Professionals in Relevant Fields**: Individuals in fields such as international relations, politics, and technology can provide expertise and advocacy.
    - **Young Adults (18-30)**: Through educational programs and social media outreach, we aim to engage this demographic who can become long-term advocates for global governance.
 
-2. **Organizations**: We seek to collaborate with a variety of organizations that align with our mission and vision. These organizations can provide us with valuable resources, expertise, and networks.
-   - **Global Think Tanks and Policy Forums**: Collaboration with these institutions can provide thought leadership and strategic insights.
+2. **Organizations**: We seek to partner with a variety of organizations that align with our mission and vision. These organizations can provide us with valuable resources, expertise, and networks.
+   - **Global Think Tanks and Policy Forums**: Collaboration with these institutions can provide thought leadership and strategic insight.
    - **Political Organizations**: Working with political organizations can help drive policy changes and increase our political influence.
-   - **Tech Companies**: Collaborations with technology companies can help us leverage cutting-edge technologies for our initiatives and outreach.
+   - **Tech Companies**: Partnering with technology companies can help us leverage the latest technologies for our initiatives.
 
-3. **Governments**: We aim to influence and partner with governments who believe in the value of global collaboration and democratic governance.
-   - **Democratic Governments**: We will focus on engaging governments of democratic countries as they are likely to resonate with our mission.
-   - **International Bodies**: Engaging with international organizations like the EU allows us to work on policy-level changes and gain wider geopolitical influence.
+3. **Governments**: We aim to influence and partner with governments that believe in the value of global cooperation and democratic governance.
+   - **Democratic Governments**: We focus on engaging governments of democratic countries because they are more likely to be aligned with our mission.
+   - **International Bodies**: Working with international organizations such as the EU allows us to work on policy-level changes and gain broader geopolitical influence.
 
-Our secondary audience includes the general public and media organizations. Our goal is to raise public awareness of the importance of democratic world governance. Media organizations are key to achieving this, as they can amplify our message to a wider audience.
+Our secondary audience includes the general public and media organizations. Our goal is to raise public awareness of the importance of democratic global governance. Media organizations are key to achieving this, as they can amplify our message to a wider audience.
 
 ## Strategic Objectives
 1. **Promotion and Advocacy**
