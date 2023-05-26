@@ -15,7 +15,7 @@
 10. [Review and Update Process](#review-and-update-process)
 
 ## Executive Summary
-We are laying the groundwork for a democratic world government that will guide the critical areas of technological progress to benefit us all. We are united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. This strategic plan is a compass that leads us with ambitious yet achievable targets to accomplish this monumental goal.
+We are laying the groundwork for a democratic world government that will guide critical areas of technological progress to benefit us all. We are united by the belief that globally enforceable regulations are the most effective way to manage existential risks, and that the development of superintelligence should be governed by humanity as a whole. This strategic plan is a compass that leads us with ambitious yet achievable targets to accomplish this monumental goal.
 
 ## Vision and Mission
 **Vision**: We envision a future where a democratic world government effectively manages existential risks and harnesses technological progress for the benefit of all.
