@@ -100,7 +100,7 @@ Our secondary audience includes the general public and media organizations. Our 
 Each strategic objective has an associated implementation plan led by a specific team within our organization, supported by resources and guidance from the leadership.
 
 - **Promotion and Advocacy**: 
-  - The Communications team will launch a worldwide campaign for a democratic world government in the first quarter of 2024.
+  - The Communications team will launch a worldwide campaign for a democratic world government in the third quarter of 2023.
   - The Resource Development team will create an Advocacy Toolkit to be launched in the third quarter of 2023.
 
 - **Membership Expansion**: 
@@ -109,7 +109,7 @@ Each strategic objective has an associated implementation plan led by a specific
 
 - **Influence and Leadership**: 
   - The Leadership team will actively participate in international forums starting from the second quarter of 2024.
-  - The Event Planning team will organize regular events, such as conferences and webinars, starting from the fourth quarter of 2023.
+  - The Event Planning team will organize regular events, such as conferences and webinars, starting from the third quarter of 2023.
   - The Education team will establish the World Academy of Politics in the second quarter of 2023.
 
 - **Collaboration and Partnerships**: 
